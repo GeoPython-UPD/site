@@ -5,10 +5,10 @@ During this course, we will use different tools and applications for programming
 
 1. `Interactive code cells <#interactive-code-cells>`__ for live coding in the browser
 2. `JupyterLab`_ for the actual programming
-3. `Cloud computing environments`_ Binder or CSC Notebooks
+3. `Cloud computing environments`_ Binder
 4. `Git and GitHub`_ for version control and documentation
 5. `Voting / polling  <#voting-and-polling>`_ for interactive questions during the lectures
-6. `Slack`_ for communicating among UH students
+6. `Discord`_ for communicating between students
 7. `Zoom`_ for live session at UH
 
 Interactive code cells
