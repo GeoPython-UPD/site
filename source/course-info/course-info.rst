@@ -1,63 +1,39 @@
 General info
 ============
 
-This is a joint course for geography and geology students
-at the Department of Geosciences and Geography, University of Helsinki (course codes GEOK_3030 and GEOG-329-1).
+This is a course offered primarily to Geology students at the National Institute of Geological Sciences, University of the Philippines.
 
 Course materials are freely available online for anyone interested in the course contents.
 
-Course meetings in Period I
+Course meetings for 2nd Sem, AY 2021-2022
 ---------------------------
 
 - Lectures:
-   - Wednesdays 09:15 - 12:00
-- Work sessions:
-   - Group 1 on Thursdays 12:15 - 16:00
-   - Group 2 on Fridays 10:15 - 14:00
+   - Mondays 13:00 - 16:00
+- Python consultation hours:
+   - Tuesdays, Wednesdays 10:00 - 12:00
 
-
-.. admonition:: Online teaching
-
-    Please note that all teaching is organized online in autumn 2021.
-    Details of participation in the exercise sessions will be sent out to enrolled students.
 
 Instructors
 -----------
 
-Lecturers
-~~~~~~~~~
+* John Dale Dianala (JD)
 
-Email: *firstname.lastname@helsinki.fi*
+  * Office: NIGS 225 / Remote
+  * Email: jddianala@nigs.upd.edu.ph
 
-* David Whipp
-
-  * Office: C417, Exactum
-  * Phone: +358 50 3199336
-
-* Håvard Wallin Aagesen
+* Richard Ybañez (Rich)
 
   * Office: Remote
-  * Phone: +47 92492011
+  * Email: richard.ybanez@nigs.upd.edu.ph
+
+...
+    Course websites
+    ---------------
+    - `UVLe site <https://uvle.upd.edu.ph/course/view.php?id=5771>`_
+    - `Discord <https://discord.gg/39yXfhwkPN>`_
+...
+    - Polling / voting (active during lectures only): `<https://geo-python.github.io/poll>`_
 
 
-Course assistants
-~~~~~~~~~~~~~~~~~
-
-* Bryan R. Vallejo
-* Aleksi Rantanen
-
-Course websites
----------------
-
-- Course sites for Period I (Introduction to Python programming):
-
-  - Main course site: `<https://geo-python.github.io>`_
-  - Notebooks by CSC: `<https://notebooks.csc.fi>`_
-  - Slack (Q&A + chat): `<https://geo-python2021.slack.com>`_
-  - Polling / voting (active during lectures only): `<https://geo-python.github.io/poll>`_
-
-- Course websites for Period II
-
-  - Automating GIS processes (GEOG-329-2): `<https://autogis.github.io>`_
-  - Introduction to Quantitative Geology (GEOK_3031): `<https://introqg.github.io>`_
 

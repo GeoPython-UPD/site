@@ -28,7 +28,7 @@ at the University of Helsinki.
 Course format
 -------------
 
-The first 2/3 of this course  will be spent in front of a computer learning to program in the Python language, with JD.
+The first 2/3 of this course  will be spent in front of a computer learning to program in the Python language.
 The last 1/3 is geared towards a more GIS approach to analysis and modeling.
 
 The course consists of interactive lectures and weekly exercises. The exercises will focus on developing
@@ -50,8 +50,8 @@ Course topics
 -------------
 
 Upon completion of the course, students must be able to: 
-CO 1. Explain computer concepts applicable to both general and geologic use; 
-CO 2. Manipulate geologic data (raster data, vector data, and satellite imageries); 
+* Explain computer concepts applicable to both general and geologic use; 
+* Manipulate geologic data (raster data, vector data, and satellite imageries); 
 
 For the Geo-python After completing this course, the students understand basic programming concepts,
 are able to write short programs, and can manage, analyze and visualize scientific data using Python.
