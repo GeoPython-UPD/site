@@ -6,7 +6,7 @@ Exercise 1
     Please complete this exercise **by the start of the next lesson**.
 
 The exercise for this week has three parts. First, you will **create an account on GitHub.com**. Next, you will
-**let us know your GitHub username via Slack**. Finally, you will **cook up some Python** using the skills you learned during the first lesson!
+**let us know your GitHub username via Discord**. Finally, you will **cook up some Python** using the skills you learned during the first lesson!
 
 Part 1 - Sign up for GitHub
 ---------------------------
@@ -24,27 +24,20 @@ Part 1 - Sign up for GitHub
 3. Enter a username, email address, and password. Click Create an account.
 4. When prompted to select a plan, choose the free option.
 
-Part 2 - Slack
+Part 2 - Discord
 --------------
-
-*This part is only for registered students. We have sent an invite link to Slack to all registered participants before the first lesson.*
-*Please contact the course instructors via email in case you are registered for the course, but don't have access to Slack.*
 
 .. figure:: img/Slack-logo.png
    :width: 150px
 
-1. Go to our **Slack** page at https://geo-python2021.slack.com.
-2. **Post a new message** in the `#week-1 <https://geo-python2021.slack.com/archives/C02D923SLTT>`__ channel with your **full name, GitHub username, course code** (GEOK_3030 or GEOG-329-1).
+1. Go to our **Discord** page at https://geo-python2021.slack.com.
+2. **Post a new message** in the `#week-1 <https://geo-python2021.slack.com/archives/C02D923SLTT>`__ channel with your **full name, GitHub username, year and course** (GEOK_3030 or GEOG-329-1).
 
 For example,
-``Dave Whipp, davewhipp, GEOK_3030``
-or
-``Håvard Aagesen, haavardaagesen, GEOG-329-1``
+``JD Aianala, jdaled, teacher since 2011``
+
 (please use comma to separate the different parts).
 This will help us know you were able to create your account, that you have also figured out how to use Slack, and we'll know who is who on GitHub :).
-
-Students from other universities; you can add the name of your home institution (Aalto / Turku / Oulu) in stead of the course code like this;
-``Tua Nylén, tuanylen, Turku``.
 
 .. note::
 
@@ -68,7 +61,7 @@ Part 3 - Cooking up some Python
 
 1. Start the coding exercise by accepting the GitHub Classroom assignment (click on the link above).
 2. Read the instructions from the repository.
-3. Launch a new JupyterLab instance. *You can use either Binder or CSC Notebooks.*
+3. Launch a new JupyterLab instance. *You can use Binder.*
 4. Cook up some Python according to the instructions!  *Remember to save your work ;) !*
 5. Download your solution, and upload it to GitHub.com into your personal Exercise 1 repository.
 

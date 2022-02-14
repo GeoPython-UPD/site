@@ -5,37 +5,31 @@
 
 .. figure:: img/banner/geo-python-2020.png
 
-Welcome to Geo-Python 2021!
+Welcome to Geo-Python, Geol 197 (Special Topics: Geoscience Data Analysis and Modeling techniques) edition! (GDAM for short)
 ===========================
 
 The **Geo-Python** course teaches you the basic concepts of programming and scientific data analysis using the Python programming language
 in a format that is easy to learn and understand (no previous programming experience required).
 Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding
 how to solve common data-related tasks using Python.
-Geo-Python is organized by the `Department of Geosciences and Geography <https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography>`__
+For Geol 197 GDAM, I have adapted the Geo-Python course originally offerred at the `Department of Geosciences and Geography <https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography>`__
 at the University of Helsinki.
-
-Geo-Python covers the necessary skills needed before continuing to the more advanced courses
-`Automating GIS processes <https://autogis.github.io>`_ and/or
-`Introduction to Quantitative Geology <https://introqg.github.io>`_.
 
 .. admonition:: Open Access!
 
     The course is **open for everyone to follow online**. The aim of this course is to share the knowledge and help people to get started with their journey for doing science more efficiently and in a reproducible manner
     using Python programming.
 
-.. admonition:: University of Helsinki students
+.. admonition:: To anyone accessing this course
 
-    The Geo-Python course runs under two course codes in teaching period 1 at the University of Helsinki.
-    Please sign up using only one of these course codes (not both)!
-
-    - GEOG-329-1 for geography students
-    - GEOK_3030 for geology students
+    This is the first time we are offering this specific course with content slightly tailored and localized towards the average senior-standing University fo the Philippines geology student.  The course is a work in progress, and we are adapting this course in the middle of a pandemic, so please forgive any inconsistencies or mistakes.  Contact us if you notice anything! 
 
 Course format
 -------------
 
-The majority of this course will be spent in front of a computer learning to program in the Python language.
+The first 2/3 of this course  will be spent in front of a computer learning to program in the Python language, with JD.
+The last 1/3 is geared towards a more GIS approach to analysis and modeling.
+
 The course consists of interactive lectures and weekly exercises. The exercises will focus on developing
 basic programming skills using Python and applying those skills to various analytical problems.
 Typical exercises will involve a brief introduction followed by topical computer-based tasks.
@@ -44,15 +38,21 @@ to related questions. You are encouraged to discuss and work together with other
 on the weekly exercises. However, the exercises you submit must be completed individually and
 must clearly reflect your own work (in short, don't copy paste from other students).
 
+
 .. admonition:: Online teaching
 
-    Please note that the course is organized completely online during the 2021 Autumn semester.
-    Online support will be available throughout the course during the weekly exercise sessions and discussion channels in Slack.
+    Please note that the course is organized completely online during the 2nd semester of AY 2021-2022.
+    Online support will be available throughout the course during the weekly exercise sessions and discussion channels in Discord.
     Details of participation in the exercise sessions will be sent out to enrolled students.
 
 Course topics
 -------------
-After completing this course, the students understand basic programming concepts,
+
+Upon completion of the course, students must be able to: 
+CO 1. Explain computer concepts applicable to both general and geologic use; 
+CO 2. Manipulate geologic data (raster data, vector data, and satellite imageries); 
+
+For the Geo-python After completing this course, the students understand basic programming concepts,
 are able to write short programs, and can manage, analyze and visualize scientific data using Python.
 The students also learn to use version control (git) and online repositories (GitHub) for documenting and communicating their work.
 Themes for each week are listed below. Read more about the weekly :doc:`learning goals in here <course-info/learning-goals>`.
@@ -93,18 +93,29 @@ New materials are updated on this course page each Wednesday.
 |          |                      |
 |          |                      |
 +----------+----------------------+
-
+|**8**     | Gasic statistics +   |
+|          | Comparing predictions|
+|          | to observations      |
++----------+----------------------+
+|**9**     | Gasic statistics +   |
+|          | Introduction to      |
+|          | modeling             |
++----------+----------------------+
+|**10**    | Digital elevation    |
+|          | modeling             |
+|          |                      |
++----------+----------------------+
+|**11**    | Applied geologic     |
+|          | modeling             |
+|          |                      |
++----------+----------------------+
 
 .. admonition:: Step by step instructions with cloud computing!
 
     The materials are written in a way that you can follow them step by step exactly as they are written, as long as you use the cloud computing resources that
-    we provide for you (namely JupyterLab Notebooks using Binder or CSC Cloud computing resources). Read more about our cloud computing environment from :doc:`here <lessons/L1/course-environment-components>`.
+    we provide for you (namely JupyterLab Notebooks using Binder). Read more about our cloud computing environment from :doc:`here <lessons/L1/course-environment-components>`.
     If you work from your own computer, **you need to adjust the file paths to the data** accordingly.
 
-.. admonition:: For teachers
-
-    If you would like to use these materials for your own teaching or develop them further, we highly support that.
-    Please read more about how to do it from :doc:`our licensing terms<course-info/licensing>`.
 
 .. toctree::
     :maxdepth: 2
