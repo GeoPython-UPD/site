@@ -79,39 +79,8 @@ Binder does not require the user to log in, you can just click on the link in th
 
 Once the instance is ready, you can navigate to the lesson folders and start working with existing notebooks or create a new one.
 
-**Remember to save your work! The Binder instance is temporary, and all your files will be lost after the session.**
+**Remember to save your work to your computer! The Binder instance is temporary, and all your files will be lost after the session.**
 
-CSC Notebooks
-~~~~~~~~~~~~~
-
-Notebooks by CSC (https://notebooks.csc.fi) is a computing environment hosted by the Finnish IT Center for Science (CSC). Similarly as in Binder, CSC notebooks are used for running Jupyter Notebooks in a customized environment.
-CSC Notebooks is available only for students who are affiliated with Finnish universities and research institutes (via the HAKA user authentication).
-
-.. note:: **When using the CSC Notebooks for the first time, you need to join the group created for this course:**
-
-    1. Log in at https://notebooks.csc.fi/
-    2. Go to Account-tab
-    3. Join Group **Geo-Python** using the joining code: ``geo-python-tadl4``
-
-    After joining the group, you should be able to view the course environments called `Geo-Python 2021` on the Dashboard.
-
-.. figure:: img/CSC_join_group.png
-   :alt: Join Group in CSC Notebooks
-
-.. note:: **Repeat these steps every time when starting to work on a programming task using the CSC Notebooks:**
-
-    1. Log in at https://notebooks.csc.fi/
-    2. Click ``Launch new`` on the Dashboard
-    3. Wait. It might take a few moments for the instance to launch
-    4. Click ``Open in browser`` once the instance is ready
-    5. If you are asked to ``Click to copy password & proceed``, then click on the button, and paste the password on the following page
-
-.. figure:: img/CSC_launch_new.png
-   :alt: Launch new Jupyter Lab instance
-
-   Launching the instance takes a few moments.
-
-**Remember to save your work!**
 
 Using your own computer
 -----------------------
@@ -146,10 +115,10 @@ You can access the polling system of our course from `<https://geo-python.github
     The polling system is active only **during** the lessons. If you access the website outside the lecture times, you
     will most probably see only a white page without any content.
 
-Slack
+Discrod
 -----
 
-During the course we will use actively an application called `Slack <http://slack.com>`__ for discussion and questions about the lessons and exercises.
+During the course we will use actively an application called `Discord <https://discord.com/>`__ for discussion and questions about the lessons and exercises.
 All enrolled students have received an invite link to the `geo-python2021` workspace at the start of the course.
 :doc:`Read more about Slack  <slack-usage>`.
 

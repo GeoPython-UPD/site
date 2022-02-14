@@ -5,14 +5,15 @@
 
 .. figure:: img/banner/geo-python-2020.png
 
-Welcome to Geo-Python, Geol 197 (Special Topics: Geoscience Data Analysis and Modeling techniques) edition! (GDAM for short)
+Welcome to Geo-Python, Geol 197 GDAM edition!
 ===========================
 
 The **Geo-Python** course teaches you the basic concepts of programming and scientific data analysis using the Python programming language
 in a format that is easy to learn and understand (no previous programming experience required).
 Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding
 how to solve common data-related tasks using Python.
-For Geol 197 GDAM, I have adapted the Geo-Python course originally offerred at the `Department of Geosciences and Geography <https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography>`__
+
+For Geol 197 GDAM, I (JD Dianala) have adapted the Geo-Python course originally offerred at the `Department of Geosciences and Geography <https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography>`__
 at the University of Helsinki.
 
 .. admonition:: Open Access!
@@ -89,23 +90,29 @@ New materials are updated on this course page each Wednesday.
 |          | Part II +            |
 |          | Dealing with errors  |
 +----------+----------------------+
-|**7**     | Data visualization   |
+|**7**     | Reading break        |
+|          |                      |
++----------+----------------------+
+|**8**     | Lenten break         |
+|          |                      |
++----------+----------------------+
+|**9**     | Data visualization   |
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**8**     | Gasic statistics +   |
+|**10**    | Basic statistics +   |
 |          | Comparing predictions|
 |          | to observations      |
 +----------+----------------------+
-|**9**     | Gasic statistics +   |
-|          | Introduction to      |
-|          | modeling             |
-+----------+----------------------+
-|**10**    | Digital elevation    |
+|**11**    | Digital elevation    |
 |          | modeling             |
 |          |                      |
 +----------+----------------------+
-|**11**    | Applied geologic     |
+|**12**    | Philippine elections |
+|          |                      |
+|          |                      |
++----------+----------------------+
+|**13-14** | Applied geologic     |
 |          | modeling             |
 |          |                      |
 +----------+----------------------+
@@ -129,7 +136,7 @@ New materials are updated on this course page each Wednesday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 1
-
+..
     lessons/L1/motivation
     lessons/L1/overview
     lessons/L1/course-environment-components
@@ -141,7 +148,7 @@ New materials are updated on this course page each Wednesday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 2
-
+..
     lessons/L2/overview
     notebooks/L2/Python-basic-elements.ipynb
     lessons/L2/intro-to-GitHub
@@ -154,7 +161,7 @@ New materials are updated on this course page each Wednesday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 3
-
+..
     lessons/L3/overview
     notebooks/L3/for-loops.ipynb
     notebooks/L3/conditional-statements.ipynb
@@ -164,7 +171,7 @@ New materials are updated on this course page each Wednesday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 4
-
+..
     lessons/L4/overview
     notebooks/L4/functions.ipynb
     notebooks/L4/modules.ipynb
@@ -174,7 +181,7 @@ New materials are updated on this course page each Wednesday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 5
-
+..
     lessons/L5/overview
     lessons/L5/pandas-overview.rst
     notebooks/L5/exploring-data-using-pandas.ipynb
@@ -184,7 +191,7 @@ New materials are updated on this course page each Wednesday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 6
-
+..
     lessons/L6/overview
     notebooks/L6/advanced-data-processing-with-pandas.ipynb
     notebooks/L6/errors.ipynb
@@ -195,7 +202,7 @@ New materials are updated on this course page each Wednesday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 7
-
+..
     lessons/L7/overview
     lessons/L7/python-plotting
     lessons/L7/plot-anatomy
@@ -206,7 +213,7 @@ New materials are updated on this course page each Wednesday.
 .. toctree::
     :maxdepth: 2
     :caption: Final exercise
-
+..
     final-exercise/overview
     final-exercise/grading.ipynb
 
