@@ -22,7 +22,7 @@ All pages with code cells can be turned into an interactive mode where you can r
 .. note::
 
     The interactive code cells are a new feature from the 2020 course materials that is still a bit experimental!
-    Remember, you can always open up the materials in Binder or CSC Notebooks and run the code in there.
+    Remember, you can always open up the materials in Binder and run the code in there.
 
 JupyterLab
 ----------
@@ -51,7 +51,7 @@ All of the course materials are available in a JupyterLab setting via `cloud com
 Cloud computing environments
 ----------------------------
 
-We will use cloud-based computing environments (Binder or CSC Notebooks) to access interactive online version of the lessons
+We will use cloud-based computing environments (Binder) to access interactive online version of the lessons
 and to work on the weekly exercises. You can use the cloud computing environments with any computer as long as it has a reasonably fast internet connection and a web browser (just don't use Internet Explorer).
 
 Please note that the cloud computing environments are **temporary**. Always remember to push your changes to GitHub (and / or download a local copy).
@@ -62,8 +62,8 @@ Please note that the cloud computing environments are **temporary**. Always reme
 
    Different options for making the lesson interactive
 
-Each interactive lesson and exercise will have a launch button for both Binder and CSC Notebook.
-The CSC notebooks environment is only accessible to students from Finnish universities and research institutes.
+Each interactive lesson and exercise will have a launch button for Binder.
+
 
 Binder
 ~~~~~~
@@ -108,14 +108,13 @@ Voting and polling
 ------------------
 
 During the lectures we will ask you questions by using an easy-to-use polling-system and show you the results in real-time.
-You can access the polling system of our course from `<https://geo-python.github.io/poll>`__
 
 .. note::
 
     The polling system is active only **during** the lessons. If you access the website outside the lecture times, you
     will most probably see only a white page without any content.
 
-Discrod
+Discord
 -----
 
 During the course we will use actively an application called `Discord <https://discord.com/>`__ for discussion and questions about the lessons and exercises.
@@ -125,8 +124,8 @@ All enrolled students have received an invite link to the `geo-python2021` works
 Zoom
 ------
 
-We will use zoom during the live sessions at the University of Helsinki during the remote teaching period in Autumn 2021.
-Zoom link and details are in Slack and were sent out via email to registered students.
+We will use zoom during the live sessions at the UP Diliman during the remote teaching period in Autumn 2021.
+Zoom link and details are in UVLe and Discord and were sent out via email to registered students.
 
 Page summary
 ------------
