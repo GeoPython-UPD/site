@@ -13,7 +13,7 @@ in a format that is easy to learn and understand (no previous programming experi
 Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding
 how to solve common data-related tasks using Python.
 
-For Geol 197 GDAM, I (JD Dianala) have adapted the Geo-Python course originally offerred at the `Department of Geosciences and Geography <https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography>`__
+For Geol 197 GDAM, we have adapted the Geo-Python course originally offerred at the `Department of Geosciences and Geography <https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography>`__
 at the University of Helsinki.
 
 .. admonition:: Open Access!

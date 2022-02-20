@@ -11,7 +11,7 @@ Course meetings for 2nd Sem, AY 2021-2022
 - Lectures:
    - Mondays 13:00 - 16:00
 - Python consultation hours:
-   - Tuesdays, Wednesdays 10:00 - 12:00
+   - Wednesdays, Thursdays 10:00 - 12:00
 
 
 Instructors

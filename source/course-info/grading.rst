@@ -3,19 +3,14 @@ Grading
 ...
 General grading breakdown
 -------------------------
-Course grades will be given using the standard six-level grading scale from 0 to 5:
-
-- 5 (Excellent)
-- 4 (Very Good)
-- 3 (Good)
-- 2 (Satisfactory)
-- 1 (Passable)
-- 0 (Fail)
 
 Your grade will be determined as follows:
 
 - 60% Exam
 - 40% Exercises
+
+.. figure:: img/grades.png
+
 
 .. admonition:: Weekly deadlines
 
