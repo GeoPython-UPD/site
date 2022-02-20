@@ -48,8 +48,8 @@ extensions = [
 ]
 
 # Google Analytics ID to enable tracking of site traffic
-googleanalytics_id = "UA-105019106-1"
-googleanalytics_enabled = True
+#googleanalytics_id = "UA-105019106-1"
+#googleanalytics_enabled = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -202,4 +202,4 @@ man_pages = [(master_doc, "geo-python", "Geo-Python Documentation", [author], 1)
 execution_allow_errors = True
 
 # Execute cells only if any of the cells is missing output
-jupyter_execute_notebooks = "auto"
+jupyter_execute_notebooks = "off"
