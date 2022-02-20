@@ -45,7 +45,7 @@ Part 3 - Cooking up some Python
 -------------------------------
 
 .. image:: https://img.shields.io/badge/launch-binder-red.svg
-   :target: https://mybinder.org/v2/gh/jdaled/geo-python_UPD/dev-upd?labpath=notebooks%2FL1%2Fa-taste-of-python.ipynb
+   :target: https://mybinder.org/v2/gh/jdaled/geo-python_UPD/dev-upd?urlpath=lab/tree/source/notebooks/L1/a-taste-of-python.ipynb
    
 
 .. admonition:: Start your assignment
