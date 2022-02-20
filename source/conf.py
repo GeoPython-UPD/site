@@ -48,8 +48,8 @@ extensions = [
 ]
 
 # Google Analytics ID to enable tracking of site traffic
-#googleanalytics_id = "UA-105019106-1"
-#googleanalytics_enabled = True
+googleanalytics_id = "G-0BR3D08MFS"
+googleanalytics_enabled = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
