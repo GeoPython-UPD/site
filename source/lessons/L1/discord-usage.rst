@@ -1,4 +1,4 @@
-Communicating with Slack
+Communicating with Discord
 ========================
 
 

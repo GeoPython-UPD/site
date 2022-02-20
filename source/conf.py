@@ -20,12 +20,12 @@
 # -- Project information -----------------------------------------------------
 
 project = "Geo-Python"
-copyright = "2016-2021, D. Whipp, H. Tenkanen, V. Heikinheimo, and H. Aagesen, Department of Geosciences and Geography, University of Helsinki"
+copyright = "2022, J.D. Dianala, National Institute of Geological Sciences, University of the Philippines."
 # author = 'David Whipp, Henrikki Tenkanen, Vuokko Heikinheimo, Håvard Aagesen'
 author = ""
 
 # The short X.Y version
-version = "2021"
+version = "2022"
 # The full version, including alpha/beta/rc tags
 release = "site"
 
@@ -106,8 +106,8 @@ html_title = ""
 
 html_theme_options = {
     # "external_links": [],
-    "repository_url": "https://github.com/geo-python/site/",
-    "repository_branch": "master",
+    "repository_url": "https://github.com/jdaled/geo-python_UPD/",
+    "repository_branch": "dev-upd",
     "path_to_docs": "source/",
     # "twitter_url": "https://twitter.com/pythongis",
     # "google_analytics_id": "UA-159257488-1",
@@ -144,9 +144,9 @@ html_context = {
     "display_github": True,
     # Set the following variables to generate the resulting github URL for each page.
     # Format Template: https://{{ github_host|default("github.com") }}/{{ github_user }}/{{ github_repo }}/blob/{{ github_version }}{{ conf_py_path }}{{ pagename }}{{ suffix }}
-    "github_user": "geo-python",
-    "github_repo": "site",
-    "github_version": "master/",
+    "github_user": "jdaled",
+    "github_repo": "geo-python_UPD",
+    "github_version": "dev-upd/",
     "conf_py_path": "/source/",
 }
 
@@ -185,9 +185,9 @@ latex_elements = {
 latex_documents = [
     (
         master_doc,
-        "Geo-Python.tex",
-        "Geo-Python Documentation",
-        "H. Tenkanen and D. Whipp",
+        "Geo-Python-UPD.tex",
+        "Geo-Python UPD-NIGS Documentation",
+        "J.D. Dianala",
         "manual",
     ),
 ]

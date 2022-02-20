@@ -31,7 +31,7 @@ Part 2 - Discord
 2. **Post a new message** in the `#week-1 <https://discordapp.com/channels/942436922255609906/944986321544437790>`__ channel with your **full name, GitHub username, year and course/current status**.
 
 For example,
-``JD Aianala, jdaled, teacher since 2011``
+``JD Dianala, jdaled, teacher since 2011``
 
 (please use comma to separate the different parts).
 This will help us know you were able to create your account, that you have also figured out how to use Discord, and we'll know who is who on GitHub :).
@@ -71,7 +71,7 @@ Part 3 - Cooking up some Python
 Summary (what to submit)
 ------------------------
 
-1. Post a message in the `#week-1 <https://discordapp.com/channels/942436922255609906/944986321544437790>`__ channel at `in our Discord server with your name, GitHub username and course.
+1. Post a message in the `#week-1 <https://discordapp.com/channels/942436922255609906/944986321544437790>`__ channel at in our Discord server with your name, GitHub username and course.
 2. Accept Exercise-1 in Github classroom and upload the jupyter notebook (file name should be ``Exercise-1.ipynb``) containing your solutions for Part 3.
 
 .. admonition:: Private repositories
