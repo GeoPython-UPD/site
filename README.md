@@ -1,6 +1,6 @@
 # Geo-Python 
 
-[![Documentation Status](https://readthedocs.org/projects/geo-python-site/badge/?version=latest)](https://geo-python-site.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/geo-python-upd/badge/?version=latest)](https://geo-python-upd.readthedocs.io/en/latest/?badge=latest)
 
 This repository contains the source files of course material available at [https://geo-python-upd.readthedocs.io](https://geo-python-upd.readthedocs.io)
 
