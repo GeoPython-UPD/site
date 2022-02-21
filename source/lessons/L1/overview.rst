@@ -24,21 +24,21 @@ After this weeks lesson your should be able to:
 Lesson videos
 -------------
 
-.. admonition:: Lesson 1.1 - Course introduction and computing basics
+.. admonition:: Lesson 1.1 - Course introduction and motivation
    *Recordings of the Zoom meeting will be put here after the class.*
     
-    ..
+
     .. raw:: html
-        ..
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/swtAsYPczSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Dave Whipp & Håvard Aagesen, University of Helsinki <a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A">@ Geo-Python channel on Youtube</a>.</p>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/I24wqWqvEVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>J.D. Dianala, University of the Philippines. </p>
 
 .. admonition:: Lesson 1.2 - Course environment and a taste of Python
-    ..
+
     .. raw:: html
-        ..
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/6y-MQ1VaDgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Dave Whipp & Håvard Aagesen, University of Helsinki <a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A">@ Geo-Python channel on Youtube</a>.</p>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/OWD9lNN1soc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <p>J.D. Dianala, University of the Philippines. </p>
 
 .. admonition:: GCP 1 - Selecting "good" variable names
 
