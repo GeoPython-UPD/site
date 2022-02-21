@@ -10,21 +10,12 @@ it makes life much easier when installing new tools to your Python.
 Install Python on Windows
 -------------------------
 
-For people working with computers from University of Helsinki: A recent version of Anaconda should be available from the `University of Helsinki Software Center <https://helpdesk.it.helsinki.fi/en/instructions/computer-and-printing/software/software-center>`__.
-
 Following steps have been tested to work on Windows 7 and 10 with Anaconda3 version 5.2.0 (June 2018) that installs Python 3.6 and various useful packages.
 
 `Download Anaconda installer (64 bit) <https://repo.anaconda.com/archive/Anaconda3-5.2.0-Windows-x86_64.exe>`_ for Windows.
 
 Install Anaconda to your computer by double clicking the installer and install it into a directory you want (needs admin rights).
 Install it to **all users** and use default settings.
-
-.. note::
-
-    Note for Windows users with a **computer administered by the University of Helsinki**: If you don't have administrator rights on your
-    computer, you might want to apply for an admin account.
-    Read more about administrator rights and software installations in `here <https://helpdesk.it.helsinki.fi/en/instructions/computer-and-printing/workstation-administrator-rights>`__
-
 
 Test that the Anaconda´s package manage called ``conda`` works by
 `opening a command prompt as a admin user <http://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/>`_
@@ -36,10 +27,6 @@ Install Python on macOS
 There is now a convenient graphical installer that can be used to install Anaconda for Mac.
 For the IntroQG people, we recommend you install Anaconda 4.4.0 by visiting `the Anaconda downloads page <https://www.anaconda.com/download/#macos>`__ and clicking on the button to install the latest Python 3 version of Anaconda, as shown below.
 
-.. note::
-
-    For the AutoGIS people, we recommend that you install a slightly older version of Anaconda for Mac (version 4.2.0).
-    You can download that version using `this link to the Anaconda software repository <https://repo.continuum.io/archive/Anaconda3-4.2.0-MacOSX-x86_64.pkg>`__.
 
 .. figure:: img/Anaconda-Mac.png
     :width: 600px

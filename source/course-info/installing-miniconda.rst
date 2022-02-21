@@ -51,11 +51,6 @@ After the installation is completed, test that the package manager ``conda`` wor
 `opening a command prompt as an admin user <http://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/>`_
 and running command ``conda --version``. If the command returns a version number of conda (e.g. ``conda 4.10.3``) everything is working correctly.
 
-.. admonition:: Windows admin rights for UH computers
-
-    Windows users with a **computer administered by the University of Helsinki**: If you don't have **administrator rights** on your
-    computer, you might want to apply for an admin account. `Read more about administrator rights and
-    software installations <https://helpdesk.it.helsinki.fi/en/instructions/computer-and-printing/workstation-administrator-rights>`__.
 
 macOS
 ~~~~~
@@ -206,6 +201,7 @@ you can start a JupyterLab instance by running this command (notice the space be
 
 After running the command, JupyterLab should open up automatically in a browser window.
 
+..
 Getting the lesson notebooks
 ----------------------------
 
@@ -214,10 +210,10 @@ You can download a copy of the course notebooks from `<https://github.com/geo-py
 Alternatively, once you are familiar with git, you can clone the course notebook repository by typing
 
 .. code-block:: bash
-
+    ..
     git clone https://github.com/geo-python/notebooks.git
 
-The command above will clone the notebook files into a directory titled ``notebooks``.
+    The command above will clone the notebook files into a directory titled ``notebooks``.
 
 Additional notes
 ----------------
@@ -229,7 +225,7 @@ In addition, we also want to specify the **channel** from where the package is d
 **Installing the pandas package from the conda-forge channel:**
 
 .. code-block:: bash
-
+    
     mamba install -c conda-forge pandas
 
 Once you run this command, you will see also other packages getting installed and/or updated as mamba checks for dependencies of the installed package.
