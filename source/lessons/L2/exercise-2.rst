@@ -7,16 +7,16 @@ Exercise 2
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 2 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/F8QVK7Q5>`__.
+    **You can start working on your copy of Exercise 2 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/EC3zct5l>`__.
 
-You can also take a look at the template repository for `Exercise 2 on GitHub <https://github.com/Geo-Python-2021/Exercise-2>`__ (does not require logging in).
+You can also take a look at the template repository for `Exercise 2 on GitHub <https://github.com/NIGS-GeoPython-2022/Exercise-2>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
 .. admonition:: Pair programming
 
     Students attending the course in UP Diliman, **note that we continue working in pairs**.
     We will only grade the repository of the member of your pair that is responsible for this week's exercise.
-    See more information in week 2: `Why are we working in pairs? <https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html>`_
+    See more information in week 2: `Why are we working in pairs? <https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/why-pairs.html>`_
 
 Cloud computing environments
 ----------------------------
