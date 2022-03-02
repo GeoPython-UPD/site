@@ -23,13 +23,13 @@ Lesson videos
 
 .. admonition:: Lesson 2.1 - Lists and working with different data types
   
-.. raw:: html
+    .. raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/vWphZGNEooc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 .. admonition:: Lesson 2.2 - Version control with Git and GitHub
 
-.. raw:: html
+    .. raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/I0b6m9H31WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
