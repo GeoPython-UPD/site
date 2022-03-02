@@ -20,19 +20,16 @@ After this week you will be able to:
 Lesson videos
 -------------
 
-.. admonition:: To be uploaded after the lecture
 
-..
-Lesson 2.1 - Lists and working with different data types
-..    
+.. admonition:: Lesson 2.1 - Lists and working with different data types
+  
 .. raw:: html
-..
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zx3rB3uMSts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>Dave Whipp & Håvard Aagesen, University of Helsinki <a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A">@ Geo-Python channel on Youtube</a>.</p>
-..
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vWphZGNEooc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 .. admonition:: Lesson 2.2 - Version control with Git and GitHub
-..
+
 .. raw:: html
-..
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WuCybFuOxs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>Dave Whipp & Håvard Aagesen, University of Helsinki <a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A">@ Geo-Python channel on Youtube</a>.</p>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/I0b6m9H31WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
