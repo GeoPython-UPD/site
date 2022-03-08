@@ -22,8 +22,14 @@ Lesson videos will be added after the lesson.
 
 .. admonition:: Lesson 3.1 - Repeating tasks with loops
     
-    To be updated after 7 March demonstration
+    .. raw:: html
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DvdI-C7zIJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>J.D. Dianala, University of the Philippines. </p>
     
 ..
 .. admonition:: Lesson 3.2 - Conditional statements
 
+    .. raw:: html
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/c3j9hHaB160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>J.D. Dianala, University of the Philippines. </p>
