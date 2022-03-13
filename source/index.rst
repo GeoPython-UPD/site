@@ -171,7 +171,7 @@ New materials are updated on this course page each Wednesday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 4
-..
+
     lessons/L4/overview
     notebooks/L4/functions.ipynb
     notebooks/L4/modules.ipynb
