@@ -20,7 +20,7 @@ After this weeks lesson your should be able to:
 Lesson videos
 -------------
 
-.. admonition:: Lesson 4.1 - Introduction to Functions (videos to be added after lesson)
+.. admonition:: Lesson 4.1 - Introduction to Functions
 
     .. raw:: html
 
