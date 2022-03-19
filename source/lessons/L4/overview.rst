@@ -22,12 +22,16 @@ Lesson videos
 
 .. admonition:: Lesson 4.1 - Introduction to Functions (videos to be added after lesson)
 
+    .. raw:: html
+
         <iframe width="560" height="315" src="https://www.youtube.com/embed/EmbLpiQAuPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>J.D. Dianala, University of the Philippines. </p>
 
 
 .. admonition:: Lesson 4.2 - Functions in script files and using modules
 
+    .. raw:: html
+    
         <iframe width="560" height="315" src="https://www.youtube.com/embed/mdaQziyATPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>J.D. Dianala, University of the Philippines. </p>
 
