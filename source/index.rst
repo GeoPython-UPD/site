@@ -191,12 +191,13 @@ New materials are updated on this course page each Wednesday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 6
-..
+
     lessons/L6/overview
     notebooks/L6/advanced-data-processing-with-pandas.ipynb
     notebooks/L6/errors.ipynb
     notebooks/L6/gcp-5-assertions.ipynb
-    notebooks/L6/debugging.ipynb
+    notebooks/L6/debugging_short.ipynb
+..
     lessons/L6/exercise-6
 
 .. toctree::

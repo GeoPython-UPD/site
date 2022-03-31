@@ -17,19 +17,3 @@ After this weeks lesson your should be able to:
 - Understand common Python errors
 - Follow a simple set of guidelines to debug programs efficiently
 
-Lesson videos
--------------
-
-.. admonition:: Lesson 6.1 - Data analysis with Pandas
-
-    .. raw:: html
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/TXKVCuE4RUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Dave Whipp & Håvard Aagesen, University of Helsinki <a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A">@ Geo-Python channel on Youtube</a>.</p>
-
-.. admonition:: Lesson 6.2 - Data analysis with Pandas (ctd.), debugging
-
-    .. raw:: html
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/BgH8K5dN6x8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Dave Whipp & Håvard Aagesen, University of Helsinki <a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A">@ Geo-Python channel on Youtube</a>.</p>
