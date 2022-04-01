@@ -193,7 +193,7 @@ New materials are updated on this course page each Wednesday.
     :caption: Lesson 6
 
     lessons/L6/overview
-    notebooks/L6/advanced-data-processing-with-pandas.ipynb
+    notebooks/L6/advanced-data-processing-with-pandas-eq.ipynb
     notebooks/L6/errors.ipynb
     notebooks/L6/gcp-5-assertions.ipynb
     notebooks/L6/debugging_short.ipynb
