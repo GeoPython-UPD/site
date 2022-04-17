@@ -14,7 +14,11 @@ Of the options above, we would like to highlight:
 
 - `Matplotlib <https://matplotlib.org/>`__: Matplotlib is one of the most widely used Python plotting libraries, sometimes referred to as "*the grand old man of Python plotting*". Plot examples can be found in the `Matplotlib gallery <https://matplotlib.org/gallery.html>`__.
 
-  - `Matplotlib Basemap <https://matplotlib.org/basemap/index.html>`__: The Matplotlib Basemap Toolkit is a plugin for visualizing maps in Python. Example plots available in the `Matplotlib basemap gallery <https://matplotlib.org/basemap/users/examples.html>`__.
+- `Cartopy <https://scitools.org.uk/cartopy/docs/latest/>`_ : Cartopy is a Python package that makes plotting of geospatial data relatively simple.  This has now superseded Basemap as the "standard" plug-in.  Example plots available in the `Cartopy gallery <https://scitools.org.uk/cartopy/docs/latest/gallery/index.html>`_ .
+
+  - `Matplotlib Basemap <https://matplotlib.org/basemap/index.html>`__: Now has reached `end-of-life <https://matplotlib.org/basemap/users/intro.html#cartopy-new-management-and-eol-announcement>` , Matplotlib Basemap Toolkit used to be the "standard" plugin for visualizing maps in Python. You might still find scripts that use basemap, so it will be good to be aware of its existence.  Example plots available in the `Matplotlib basemap gallery <https://matplotlib.org/basemap/users/examples.html>`__.  
+  
+    
   - `Seaborn <https://seaborn.pydata.org/>`__: Seaborn is a high-level interface for drawing attractive statistical graphics that is built on top of Matplotlib. Example plots can be found in the `Seaborn gallery <https://seaborn.pydata.org/examples/index.html>`__.
 
 - `Bokeh <https://docs.bokeh.org/en/latest/>`__: Bokeh is a modern plotting library for static and interactive web-based plots including graphs, maps, and charts. Examples can be found in the `Bokeh gallery <https://docs.bokeh.org/en/latest/docs/gallery.html>`__.
@@ -38,6 +42,3 @@ Not even we do.
 It is not even reasonable to use them all.
 Instead you should start by learning to use one that suits your needs and then later extend your knowledge and skills to other visualization libraries when necessary.
 
-.. note:: 
-
-   In the Automating GIS processes II course we will be learning a bit of some other plotting libraries not used in the Geo-Python/AutoGIS I course.
