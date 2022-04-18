@@ -197,18 +197,17 @@ New materials are updated on this course page each Wednesday.
     notebooks/L6/errors.ipynb
     notebooks/L6/gcp-5-assertions.ipynb
     notebooks/L6/debugging_short.ipynb
-..
-    lessons/L6/exercise-6
 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 7
-..
+
     lessons/L7/overview
     lessons/L7/python-plotting
     lessons/L7/plot-anatomy
     notebooks/L7/matplotlib.ipynb
-    notebooks/L7/advanced-plotting.ipynb
+..
+    notebooks/L7/cartopy.ipynb
     lessons/L7/exercise-7
 
 .. toctree::
