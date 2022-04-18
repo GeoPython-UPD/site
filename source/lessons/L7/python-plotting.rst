@@ -16,8 +16,7 @@ Of the options above, we would like to highlight:
 
 - `Cartopy <https://scitools.org.uk/cartopy/docs/latest/>`_ : Cartopy is a Python package that makes plotting of geospatial data relatively simple.  This has now superseded Basemap as the "standard" plug-in.  Example plots available in the `Cartopy gallery <https://scitools.org.uk/cartopy/docs/latest/gallery/index.html>`_ .
 
-  - `Matplotlib Basemap <https://matplotlib.org/basemap/index.html>`__: Now has reached `end-of-life <https://matplotlib.org/basemap/users/intro.html#cartopy-new-management-and-eol-announcement>` , Matplotlib Basemap Toolkit used to be the "standard" plugin for visualizing maps in Python. You might still find scripts that use basemap, so it will be good to be aware of its existence.  Example plots available in the `Matplotlib basemap gallery <https://matplotlib.org/basemap/users/examples.html>`__.  
-  
+  - `Matplotlib Basemap <https://matplotlib.org/basemap/index.html>`__: Now has reached `end-of-life <https://matplotlib.org/basemap/users/intro.html#cartopy-new-management-and-eol-announcement>` , Matplotlib Basemap Toolkit used to be the "standard" plugin for visualizing maps in Python. You might still find scripts that use basemap, so it will be good to be aware of its existence.  Example plots available in the `Matplotlib basemap gallery <https://matplotlib.org/basemap/users/examples.html>`__.    
     
   - `Seaborn <https://seaborn.pydata.org/>`__: Seaborn is a high-level interface for drawing attractive statistical graphics that is built on top of Matplotlib. Example plots can be found in the `Seaborn gallery <https://seaborn.pydata.org/examples/index.html>`__.
 
