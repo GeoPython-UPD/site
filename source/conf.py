@@ -110,7 +110,7 @@ html_theme_options = {
     "repository_branch": "dev-upd",
     "path_to_docs": "source/",
     # "twitter_url": "https://twitter.com/pythongis",
-    # "google_analytics_id": "UA-159257488-1",
+    "google_analytics_id": "G-0BR3D08MFS",
     "use_edit_page_button": True,
     "use_repository_button": True,
     "launch_buttons": {
@@ -202,4 +202,4 @@ man_pages = [(master_doc, "geo-python", "Geo-Python Documentation", [author], 1)
 execution_allow_errors = True
 
 # Execute cells only if any of the cells is missing output
-jupyter_execute_notebooks = "off"
+jupyter_execute_notebooks = "auto"
