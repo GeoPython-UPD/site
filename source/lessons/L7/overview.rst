@@ -18,4 +18,14 @@ After this weeks lesson your should be able to:
 Lesson videos
 -------------
 
-To be added.
+.. admonition:: Lesson 6.1 - Basic plotting with pandas and Matplotlib
+
+    .. raw:: html
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/iCYDUQBkn9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+.. admonition:: Lesson 6.2 - Cartopy and other resources
+
+    .. raw:: html
+    
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/J5SkBw6IFUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
