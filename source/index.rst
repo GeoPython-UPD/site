@@ -206,6 +206,19 @@ New materials are updated on this course page each Wednesday.
     lessons/L7/python-plotting
     lessons/L7/plot-anatomy
     notebooks/L7/matplotlib.ipynb
+    
+.. toctree::
+    :maxdepth: 2
+    :caption: Lesson 7
+
+    lessons/L8/overview
+    notebooks/L8/numpy.ipynb
+    lessons/L8/basic-terms
+    lessons/L8/uncertainty
+    lessons/L8/reporting-measurements
+    lessons/L8/normal-distribution.ipynb
+    lessons/L5/exercise-8
+
 
 .. toctree::
     :maxdepth: 2
