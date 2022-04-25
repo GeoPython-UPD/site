@@ -209,7 +209,7 @@ New materials are updated on this course page each Wednesday.
     
 .. toctree::
     :maxdepth: 2
-    :caption: Lesson 7
+    :caption: Lesson 8
 
     lessons/L8/overview
     notebooks/L8/numpy.ipynb
@@ -217,7 +217,8 @@ New materials are updated on this course page each Wednesday.
     lessons/L8/uncertainty
     lessons/L8/reporting-measurements
     lessons/L8/normal-distribution.ipynb
-    lessons/L5/exercise-8
+    lessons/L8/curve-fitting.ipynb
+    lessons/L8/exercise-8
 
 
 .. toctree::
