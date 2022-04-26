@@ -24,3 +24,15 @@ After completing this week's lesson you should be able to:
 
 Lesson videos
 -------------
+
+.. admonition:: Lesson 8.1 - Basic statistics
+
+    .. raw:: html
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CPnSWq0Jh9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+.. admonition:: Lesson 6.2 - Introduction to modeling
+
+    .. raw:: html
+    
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/8SE3lexn4HI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
