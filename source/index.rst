@@ -213,9 +213,9 @@ New materials are updated on this course page each Wednesday.
 
     lessons/L8/overview
     notebooks/L8/numpy.ipynb
-    lessons/L8/basic-terms
-    lessons/L8/uncertainty
-    lessons/L8/reporting-measurements
+    notebooks/L8/basic-terms.ipynb
+    notebooks/L8/uncertainty.ipynb
+    notebooks/L8/reporting-measurements.ipynb
     notebooks/L8/normal-distribution.ipynb
     notebooks/L8/curve-fitting.ipynb
     lessons/L8/exercise-8
