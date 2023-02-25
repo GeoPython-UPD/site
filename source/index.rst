@@ -23,7 +23,7 @@ at the University of Helsinki.
 
 .. admonition:: To anyone accessing this course
 
-    This is the first time we are offering this specific course with content slightly tailored and localized towards the average senior-standing University fo the Philippines geology student.  The course is a work in progress, and we are adapting this course in the middle of a pandemic, so please forgive any inconsistencies or mistakes.  Contact us if you notice anything! 
+    This is the second time we are offering this specific course with content slightly tailored and localized towards the average senior-standing University fo the Philippines geology student.  The course is a work in progress, and we continue to improve the materials, so please forgive any inconsistencies or mistakes.  Contact us if you notice anything!
 
 Course format
 -------------
@@ -40,26 +40,25 @@ on the weekly exercises. However, the exercises you submit must be completed ind
 must clearly reflect your own work (in short, don't copy paste from other students).
 
 
-.. admonition:: Online teaching
+.. admonition:: Hybrid learning
 
-    Please note that the course is organized completely online during the 2nd semester of AY 2021-2022.
+    We aim to deliver this course primarily in-person during the 2nd semester of AY 2022-2023.
     Online support will be available throughout the course during the weekly exercise sessions and discussion channels in Discord.
     Details of participation in the exercise sessions will be sent out to enrolled students.
 
 Course topics
 -------------
 
-Upon completion of the course, students must be able to: 
-* Explain computer concepts applicable to both general and geologic use; 
-* Manipulate geologic data (raster data, vector data, and satellite imageries); 
+Upon completion of the course, students must be able to:
+* Explain computer concepts applicable to both general and geologic use;
+* Manipulate geologic data (raster data, vector data, and satellite imageries);
 
 For the Geo-python After completing this course, the students understand basic programming concepts,
 are able to write short programs, and can manage, analyze and visualize scientific data using Python.
 The students also learn to use version control (git) and online repositories (GitHub) for documenting and communicating their work.
 Themes for each week are listed below. Read more about the weekly :doc:`learning goals in here <course-info/learning-goals>`.
 
-The course runs for seven weeks in the Autumn semester starting on the 8th of September 2021.
-New materials are updated on this course page each Wednesday.
+New materials are updated on this course page each Saturday.
 
 +----------+----------------------+
 | Week     | Theme                |
@@ -206,7 +205,7 @@ New materials are updated on this course page each Wednesday.
     lessons/L7/python-plotting
     lessons/L7/plot-anatomy
     notebooks/L7/matplotlib.ipynb
-    
+
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 8
