@@ -5,13 +5,13 @@ This is a course offered primarily to Geology students at the National Institute
 
 Course materials are freely available online for anyone interested in the course contents.
 
-Course meetings for 2nd Sem, AY 2021-2022
+Course meetings for 2nd Sem, AY 2022-2023
 ---------------------------
 
 - Lectures:
-   - Mondays 13:00 - 16:00
-- Python consultation hours:
-   - Wednesdays, Thursdays 10:00 - 12:00
+   - Saturdays 13:00 - 16:00
+- JD's Consultation hours:
+   - Tuesdays, Wednesdays:  10:00 AM - 12:00 NN, 1:00 - 4:00 PM
 
 
 Instructors
@@ -19,7 +19,7 @@ Instructors
 
 * John Dale Dianala (JD)
 
-  * Office: NIGS 225 / Remote
+  * Office: NIGS 229 / Remote
   * Email: jddianala@nigs.upd.edu.ph
 
 * Richard Ybañez (Rich)
@@ -30,8 +30,8 @@ Instructors
 ...
     Course websites
     ---------------
-    - `UVLe site <https://uvle.upd.edu.ph/course/view.php?id=5771>`_
-    - `Discord <https://discord.gg/39yXfhwkPN>`_
+    - `UVLe site <https://uvle.upd.edu.ph/course/view.php?id=12198>`_
+    - `Discord <https://uvle.upd.edu.ph/mod/url/view.php?id=424266>`_
 ...
     - Polling / voting (active during lectures only): `<https://geo-python.github.io/poll>`_
 
