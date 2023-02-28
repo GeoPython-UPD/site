@@ -151,7 +151,7 @@ New materials are updated on this course page each Saturday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 1
-..
+
     lessons/L1/motivation
     lessons/L1/overview
     lessons/L1/course-environment-components
