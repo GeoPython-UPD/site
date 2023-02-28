@@ -63,55 +63,72 @@ New materials are updated on this course page each Saturday.
 +----------+----------------------+
 | Week     | Theme                |
 +==========+======================+
-|**1**     | Basic concepts of    |
-|          | Python and computer  |
-|          | programs             |
+|**1**     | Orientation          |
 |          |                      |
-+----------+----------------------+
-|**2**     | Diving into Python   |
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**3**     | Repeating tasks      |
+|**2**     | People Power Anniversary   |
+|          |                      |
+|          |                      |
++----------+----------------------+
+|**3**     | Basic concepts of    |
+|          | Python and           |
+|          | computer programs    |
+|          |                      |
++----------+----------------------+
+|**4**     | Diving into Python   |
+|          |                      |
+|          |                      |
++----------+----------------------+
+|**5**     | Repeating tasks      |
 |          | and making decisions |
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**4**     | Creating and using   |
+|**6**     | Creating and using   |
 |          | functions            |
 |          |                      |
 +----------+----------------------+
-|**5**     | Data analysis        |
+|**7**     | Data analysis        |
 |          | Part I               |
-|          |                      |
-+----------+----------------------+
-|**6**     | Data analysis        |
-|          | Part II +            |
-|          | Dealing with errors  |
-+----------+----------------------+
-|**7**     | Reading break        |
 |          |                      |
 +----------+----------------------+
 |**8**     | Lenten break         |
 |          |                      |
 +----------+----------------------+
-|**9**     | Data visualization   |
+|**9**     | Reading break        |
+|          |                      |
++----------+----------------------+
+|**10**    | Data analysis        |
+|          | Part II +            |
+|          | Dealing with errors  |
++----------+----------------------+
+|**11**    | Data visualization   |
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**10**    | Basic statistics +   |
-|          | Comparing predictions|
+|**12**    | Basic statistics     |
+|          |                      |
+|          |                      |
++----------+----------------------+
+|**13**    | Comparing predictions|
 |          | to observations      |
+|          |                      |
 +----------+----------------------+
-|**11**    | Digital elevation    |
+|**14**    | Automating GIS       |
+|          | processes            |
+|          |                      |
++----------+----------------------+
+|**15**    | Digital elevation    |
 |          | modeling             |
 |          |                      |
 +----------+----------------------+
-|**12**    | Philippine elections |
+|**16**    | Drone practical      |
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**13-14** | Applied geologic     |
+|**17**    | Applied geologic     |
 |          | modeling             |
 |          |                      |
 +----------+----------------------+
@@ -143,7 +160,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L1/a-taste-of-python.ipynb
     notebooks/L1/gcp-1-variable-naming.ipynb
     lessons/L1/exercise-1
-
+..
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 2
@@ -156,7 +173,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L2/gcp-2-describing-code.ipynb
     lessons/L2/why-pairs
     lessons/L2/exercise-2
-
+..
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 3
@@ -166,7 +183,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L3/conditional-statements.ipynb
     notebooks/L3/gcp-3-pep8.ipynb
     lessons/L3/exercise-3
-
+..
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 4
@@ -176,7 +193,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L4/modules.ipynb
     notebooks/L4/gcp-4-writing-scripts.ipynb
     lessons/L4/exercise-4
-
+..
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 5
@@ -186,7 +203,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L5/exploring-data-using-pandas_eq.ipynb
     notebooks/L5/processing-data-with-pandas_eq.ipynb
     lessons/L5/exercise-5
-
+..
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 6
@@ -196,7 +213,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L6/errors.ipynb
     notebooks/L6/gcp-5-assertions.ipynb
     notebooks/L6/debugging_short.ipynb
-
+..
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 7
@@ -205,7 +222,7 @@ New materials are updated on this course page each Saturday.
     lessons/L7/python-plotting
     lessons/L7/plot-anatomy
     notebooks/L7/matplotlib.ipynb
-
+..
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 8
@@ -219,14 +236,14 @@ New materials are updated on this course page each Saturday.
     notebooks/L8/curve-fitting.ipynb
     lessons/L8/exercise-8
 
-
+..
 .. toctree::
     :maxdepth: 2
     :caption: Final exercise
 ..
     final-exercise/overview
     final-exercise/grading.ipynb
-
+..
 .. toctree::
     :maxdepth: 2
     :caption: Resources
