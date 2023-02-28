@@ -20,12 +20,12 @@
 # -- Project information -----------------------------------------------------
 
 project = "Geo-Python"
-copyright = "2022, J.D. Dianala, National Institute of Geological Sciences, University of the Philippines."
+copyright = "2023, J.D. Dianala, National Institute of Geological Sciences, University of the Philippines."
 # author = 'David Whipp, Henrikki Tenkanen, Vuokko Heikinheimo, Håvard Aagesen'
 author = ""
 
 # The short X.Y version
-version = "2022"
+version = "2023"
 # The full version, including alpha/beta/rc tags
 release = "site"
 
@@ -105,11 +105,9 @@ html_logo = "_static/geopython.png"
 html_title = ""
 
 html_theme_options = {
-    # "external_links": [],
-    "repository_url": "https://github.com/jdaled/geo-python_UPD/",
+    "repository_url": "https://github.com/GeoPython-UPD/site"
     "repository_branch": "dev-upd",
     "path_to_docs": "source/",
-    # "twitter_url": "https://twitter.com/pythongis",
     "google_analytics_id": "G-0BR3D08MFS",
     "use_edit_page_button": True,
     "use_repository_button": True,
@@ -120,6 +118,7 @@ html_theme_options = {
         "collapse_navigation": False,
     },
 }
+
 
 # Add last modified to all pages
 html_last_updated_fmt = ""
@@ -144,8 +143,8 @@ html_context = {
     "display_github": True,
     # Set the following variables to generate the resulting github URL for each page.
     # Format Template: https://{{ github_host|default("github.com") }}/{{ github_user }}/{{ github_repo }}/blob/{{ github_version }}{{ conf_py_path }}{{ pagename }}{{ suffix }}
-    "github_user": "jdaled",
-    "github_repo": "geo-python_UPD",
+    "github_user": "GeoPython-UPD",
+    "github_repo": "site",
     "github_version": "dev-upd/",
     "conf_py_path": "/source/",
 }
