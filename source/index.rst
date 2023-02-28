@@ -40,7 +40,7 @@ on the weekly exercises. However, the exercises you submit must be completed ind
 must clearly reflect your own work (in short, don't copy paste from other students).
 
 
-.. admonition:: Hybrid learning
+.. admonition:: On-site (F2F) teaching
 
     We aim to deliver this course primarily in-person during the 2nd semester of AY 2022-2023.
     Online support will be available throughout the course during the weekly exercise sessions and discussion channels in Discord.
@@ -49,11 +49,10 @@ must clearly reflect your own work (in short, don't copy paste from other studen
 Course topics
 -------------
 
-Upon completion of the course, students must be able to:
-* Explain computer concepts applicable to both general and geologic use;
-* Manipulate geologic data (raster data, vector data, and satellite imageries);
+Upon completion of the course, students will be able to explain computer concepts applicable to both general and geologic use,
+as well as manipulate geologic data (raster data, vector data, and satellite imageries);
 
-For the Geo-python After completing this course, the students understand basic programming concepts,
+For the Geo-python part, students understand basic programming concepts,
 are able to write short programs, and can manage, analyze and visualize scientific data using Python.
 The students also learn to use version control (git) and online repositories (GitHub) for documenting and communicating their work.
 Themes for each week are listed below. Read more about the weekly :doc:`learning goals in here <course-info/learning-goals>`.
@@ -68,8 +67,8 @@ New materials are updated on this course page each Saturday.
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**2**     | People Power Anniversary   |
-|          |                      |
+|**2**     | People Power         |
+|          | Anniversary          |
 |          |                      |
 +----------+----------------------+
 |**3**     | Basic concepts of    |
@@ -112,9 +111,9 @@ New materials are updated on this course page each Saturday.
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**13**    | Comparing predictions|
+|**13**    | Comparing            |
+|          | predictions          |
 |          | to observations      |
-|          |                      |
 +----------+----------------------+
 |**14**    | Automating GIS       |
 |          | processes            |
