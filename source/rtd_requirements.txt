@@ -14,3 +14,4 @@ pandas
 pandas-bokeh
 imageio
 seaborn
+nbconvert==6.4.4
