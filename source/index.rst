@@ -49,8 +49,8 @@ must clearly reflect your own work (in short, don't copy paste from other studen
 Course topics
 -------------
 
-Upon completion of the course, students will be able to explain computer concepts applicable to both general and geologic use,
-as well as manipulate geologic data (raster data, vector data, and satellite imageries);
+Upon completion of the course, students will be able to: 1) explain computer concepts applicable to both general and geologic use,
+as well as 2) manipulate geologic data (raster data, vector data, and satellite imageries);
 
 For the Geo-python part, students understand basic programming concepts,
 are able to write short programs, and can manage, analyze and visualize scientific data using Python.
@@ -67,8 +67,8 @@ New materials are updated on this course page each Saturday.
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**2**     | People Power         |
-|          | Anniversary          |
+|**2**     | *People Power*       |
+|          | *Anniversary*        |
 |          |                      |
 +----------+----------------------+
 |**3**     | Basic concepts of    |
@@ -93,10 +93,10 @@ New materials are updated on this course page each Saturday.
 |          | Part I               |
 |          |                      |
 +----------+----------------------+
-|**8**     | Lenten break         |
+|**8**     | *Lenten break*       |
 |          |                      |
 +----------+----------------------+
-|**9**     | Reading break        |
+|**9**     | *Reading break*      |
 |          |                      |
 +----------+----------------------+
 |**10**    | Data analysis        |
@@ -159,6 +159,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L1/a-taste-of-python.ipynb
     notebooks/L1/gcp-1-variable-naming.ipynb
     lessons/L1/exercise-1
+
 ..
 .. toctree::
     :maxdepth: 2
@@ -172,6 +173,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L2/gcp-2-describing-code.ipynb
     lessons/L2/why-pairs
     lessons/L2/exercise-2
+
 ..
 .. toctree::
     :maxdepth: 2
@@ -182,6 +184,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L3/conditional-statements.ipynb
     notebooks/L3/gcp-3-pep8.ipynb
     lessons/L3/exercise-3
+
 ..
 .. toctree::
     :maxdepth: 2
@@ -192,6 +195,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L4/modules.ipynb
     notebooks/L4/gcp-4-writing-scripts.ipynb
     lessons/L4/exercise-4
+
 ..
 .. toctree::
     :maxdepth: 2
@@ -202,6 +206,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L5/exploring-data-using-pandas_eq.ipynb
     notebooks/L5/processing-data-with-pandas_eq.ipynb
     lessons/L5/exercise-5
+
 ..
 .. toctree::
     :maxdepth: 2
@@ -212,6 +217,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L6/errors.ipynb
     notebooks/L6/gcp-5-assertions.ipynb
     notebooks/L6/debugging_short.ipynb
+
 ..
 .. toctree::
     :maxdepth: 2
@@ -221,6 +227,7 @@ New materials are updated on this course page each Saturday.
     lessons/L7/python-plotting
     lessons/L7/plot-anatomy
     notebooks/L7/matplotlib.ipynb
+
 ..
 .. toctree::
     :maxdepth: 2
