@@ -105,7 +105,7 @@ html_logo = "_static/geopython.png"
 html_title = ""
 
 html_theme_options = {
-    "repository_url": "https://github.com/GeoPython-UPD/site"
+    "repository_url": "https://github.com/GeoPython-UPD/site",
     "repository_branch": "dev-upd",
     "path_to_docs": "source/",
     "google_analytics_id": "G-0BR3D08MFS",
