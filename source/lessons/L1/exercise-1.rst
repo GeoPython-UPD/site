@@ -28,7 +28,7 @@ Part 2 - Discord
 --------------
 
 1. Go to our **Discord** server (check your email for the invite link, or email us if it's missing)
-2. **Post a new message** in the `#week-1 <https://discordapp.com/channels/942436922255609906/944986321544437790>`__ channel with your **full name, GitHub username, year and course/current status**.
+2. **Post a new message** in the `#week-1 <https://discord.com/channels/1076414283103088640/1076414283543482448>`__ channel with your **full name, GitHub username, year and course/current status**.
 
 For example,
 ``JD Dianala, jdaled, teacher since 2011``
@@ -50,7 +50,7 @@ Part 3 - Cooking up some Python
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/QmS67UOa>`__.
+    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/4nYU8hft>`__.
 
 
 1. Start the coding exercise by accepting the GitHub Classroom assignment (click on the link above).
@@ -71,7 +71,7 @@ Part 3 - Cooking up some Python
 Summary (what to submit)
 ------------------------
 
-1. Post a message in the `#week-1 <https://discordapp.com/channels/942436922255609906/944986321544437790>`__ channel at in our Discord server with your name, GitHub username and course.
+1. Post a message in the `#week-1 <https://discord.com/channels/1076414283103088640/1076414283543482448>`__ channel at in our Discord server with your name, GitHub username and course.
 2. Accept Exercise-1 in Github classroom and upload the jupyter notebook (file name should be ``Exercise-1.ipynb``) containing your solutions for Part 3.
 
 .. admonition:: Private repositories
