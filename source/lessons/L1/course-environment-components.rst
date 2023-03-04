@@ -121,10 +121,12 @@ During the course we will use actively an application called `Discord <https://d
 All enrolled students have received an invite link to the `geo-python2021` workspace at the start of the course.
 :doc:`Read more about Discord  <discord-usage>`.
 
+..
 Zoom
 ------
-
+..
 We will use zoom during the live sessions at the UP Diliman during the remote teaching period of 2nd Semester, AY 2021-2022.
+..
 Zoom link and details are in UVLe and Discord and were sent out via email to registered students.
 
 Page summary
