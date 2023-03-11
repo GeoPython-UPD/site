@@ -22,7 +22,7 @@ Cloud computing environments
 ----------------------------
 
 .. image:: https://img.shields.io/badge/launch-binder-red.svg
-   :target: https://mybinder.org/v2/gh/NIGS-GeoPython-2022/Binder/main
+   :target: https://mybinder.org/v2/gh/GeoPython-UPD/Binder/main
    
 
 Exercise 2 hints
