@@ -7,22 +7,22 @@ Exercise 3
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 3 by 14 March 2022** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/sIRZ2InB>`__.
+    **You can start working on your copy of Exercise 3 by 18 March 2023** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/0tC6VcyM>`__.
 
-You can also take a look at the template repository for `Exercise 3 on GitHub <https://github.com/NIGS-GeoPython-2022/Exercise-3.git>`__ (does not require logging in).
+You can also take a look at the template repository for `Exercise 3 on GitHub <https://github.com/NIGS-GeoPython-2023/exercise-3.git>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
 .. admonition:: Pair programming
 
     Students attending the course in Helsinki, **note that we continue working in pairs**.
     We will only grade the repository of the member of your pair that is responsible for this week's exercise.
-    See more information in Slack, and in week 2: `Why are we working in pairs? <https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/why-pairs.html>`_
+    See more information in week 2: `Why are we working in pairs? <https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/why-pairs.html>`_
 
 Cloud computing environments
 ----------------------------
 
 .. image:: https://img.shields.io/badge/launch-binder-red.svg
-   :target: https://mybinder.org/v2/gh/NIGS-GeoPython-2022/Binder/main?urlpath=lab
+   :target: https://mybinder.org/v2/gh/GeoPython-UPD/Binder/main
    
 Exercise 3 hints
 ----------------
