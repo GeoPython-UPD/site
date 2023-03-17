@@ -176,7 +176,7 @@ New materials are updated on this course page each Saturday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 3
-..
+
     lessons/L3/overview
     notebooks/L3/for-loops.ipynb
     notebooks/L3/conditional-statements.ipynb
