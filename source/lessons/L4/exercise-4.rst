@@ -20,6 +20,10 @@ Note that you should not try to make changes to this copy of the exercise, but r
 Cloud computing environments
 ----------------------------
 
+.. image:: https://img.shields.io/badge/Launch-CS_Hub-blue
+   :target: http://jhub.science.upd.edu.ph/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FGeoPython-UPD%2FBinder&urlpath=lab%2Ftree%2FBinder%2F&branch=main
+
+
 .. image:: https://img.shields.io/badge/launch-binder-red.svg
    :target: https://mybinder.org/v2/gh/GeoPython-UPD/Binder/main?urlpath=lab
 
