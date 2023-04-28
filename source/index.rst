@@ -231,6 +231,11 @@ New materials are updated on this course page each Saturday.
     notebooks/L8/numpy.ipynb
     notebooks/L8/basic-terms.ipynb
     notebooks/L8/uncertainty.ipynb
+    
+.. toctree::
+    :maxdepth: 2
+    :caption: Lesson 9
+..
     notebooks/L8/reporting-measurements.ipynb
     notebooks/L8/normal-distribution.ipynb
     notebooks/L8/curve-fitting.ipynb
