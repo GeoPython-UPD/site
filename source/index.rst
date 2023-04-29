@@ -217,11 +217,12 @@ New materials are updated on this course page each Saturday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 7
-..
+
     lessons/L7/overview
     lessons/L7/python-plotting
     lessons/L7/plot-anatomy
     notebooks/L7/matplotlib.ipynb
+    notebooks/L7/cartopy.ipynb
 
 .. toctree::
     :maxdepth: 2
