@@ -222,6 +222,7 @@ New materials are updated on this course page each Saturday.
     lessons/L7/python-plotting
     lessons/L7/plot-anatomy
     notebooks/L7/matplotlib.ipynb
+    notebooks/L7/advanced-plotting.ipynb
     notebooks/L7/cartopy.ipynb
 
 .. toctree::
