@@ -18,13 +18,19 @@ After this weeks lesson your should be able to:
 Lesson videos
 -------------
 
-.. admonition:: Lesson 6.1 - Basic plotting with pandas and Matplotlib
+.. admonition:: Lesson 7.1 - Basic plotting with pandas and Matplotlib
 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/iCYDUQBkn9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/9NaCyRBARRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
-.. admonition:: Lesson 6.2 - Cartopy and other resources
+.. admonition:: Lesson 7.2 - Basic plotting with pandas and Matplotlib
+
+    .. raw:: html
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/0RjdaLt9xzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+.. admonition:: Lesson 7.3 - Cartopy and other resources, from 2022
 
     .. raw:: html
     
