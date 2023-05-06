@@ -119,6 +119,7 @@ html_theme_options = {
     },
 }
 
+mathjax_path = '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
 
 # Add last modified to all pages
 html_last_updated_fmt = ""
