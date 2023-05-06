@@ -228,7 +228,7 @@ New materials are updated on this course page each Saturday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 8
-..
+
     lessons/L8/overview
     notebooks/L8/numpy.ipynb
     notebooks/L8/basic-terms.ipynb
