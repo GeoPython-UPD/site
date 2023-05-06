@@ -12,7 +12,7 @@ Before we start with that, however, we need to learn a few things about a new Py
 5. `The normal distribution <../../notebooks/L8/normal-distribution.html>`_
 6. :doc:`Exercise 8 <exercise-8>`
 
-This lesson is based on Lesson one of the `Introduction to Quantitative Geology course <https://introqg-site.readthedocs.io/en/latest/>` at the University of Helsinki. 
+This lesson is based on Lesson one of the `Introduction to Quantitative Geology course <https://introqg-site.readthedocs.io/en/latest/>`_ at the University of Helsinki. 
 
 Learning objectives
 -------------------
@@ -25,7 +25,7 @@ After completing this week's lesson you should be able to:
 Lesson videos
 -------------
 
-.. admonition:: Lesson 8.1 - Basic statistics
+.. admonition:: Lesson 8.1 - Intro to NumPy and Basic statistics (now with timestamps!)
     
     .. raw:: html
 
