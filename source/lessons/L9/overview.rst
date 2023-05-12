@@ -9,6 +9,8 @@ As was the case last week, we will continue to focus more on quantitative and ge
 3. `Goodness-of-fit calculations <../../notebooks/L9/goodness-of-fit.html>`_
 4. :doc:`Exercise 9 <exercise-9>`
 
+This lesson is based on Lesson 2 of the `Introduction to Quantitative Geology <https://introqg-site.readthedocs.io>`_ course at the University of Helsinki (© D. Whipp, Department of Geosciences and Geography, University of Helsinki).
+
 Learning objectives
 -------------------
 
