@@ -35,6 +35,8 @@ release = "site"
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+mathjax_path = 'https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMM'
+
 extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.githubpages",
@@ -118,8 +120,6 @@ html_theme_options = {
         "collapse_navigation": False,
     },
 }
-
-mathjax_path = '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
 
 # Add last modified to all pages
 html_last_updated_fmt = ""
