@@ -240,8 +240,11 @@ New materials are updated on this course page each Saturday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 9
-..
-    notebooks/L8/curve-fitting.ipynb
+    
+    lessons/L9/overview
+    notebooks/L9/least-squares.ipynb
+    notebooks/L9/linear-correlation.ipynb
+    notebooks/L9/goodness-of-fit.ipynb
 
 .. toctree::
     :maxdepth: 2
