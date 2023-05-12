@@ -245,6 +245,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L9/least-squares.ipynb
     notebooks/L9/linear-correlation.ipynb
     notebooks/L9/goodness-of-fit.ipynb
+    lessons/L9/exercise-9
 
 .. toctree::
     :maxdepth: 2
