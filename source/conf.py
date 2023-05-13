@@ -40,6 +40,7 @@ release = "site"
 extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.githubpages",
+    'sphinx_math_dollar', 
     "sphinx.ext.todo",
     "sphinx_thebe",
     # "sphinxcontrib.googleanalytics",
@@ -49,6 +50,19 @@ extensions = [
     "jupyter_sphinx",
 ]
 
+mathjax_config = {
+    'tex2jax': {
+        'inlineMath': [ ["\\(","\\)"] ],
+        'displayMath': [["\\[","\\]"] ],
+    },
+}
+
+mathjax3_config = {
+  "tex": {
+    "inlineMath": [['\\(', '\\)']],
+    "displayMath": [["\\[", "\\]"]],
+  }
+}
 # Google Analytics ID to enable tracking of site traffic
 #googleanalytics_id = "G-0BR3D08MFS"
 #googleanalytics_enabled = True
