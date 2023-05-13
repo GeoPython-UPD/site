@@ -40,7 +40,7 @@ release = "site"
 extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.githubpages",
-    'sphinx-math-dollar', 
+    'sphinx_math_dollar', 
     "sphinx.ext.todo",
     "sphinx_thebe",
     # "sphinxcontrib.googleanalytics",

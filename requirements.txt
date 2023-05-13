@@ -7,4 +7,5 @@ xarray
 scipy
 seaborn
 nose==1.3.7
+sphinx-math-dollar
 #jupyterlab-git  # Disabling jupyterlab-git for now as it hangs indefinitely
