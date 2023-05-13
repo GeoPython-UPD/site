@@ -35,14 +35,14 @@ release = "site"
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-mathjax_path = 'https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMM'
+# mathjax_path = 'https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMM'
 
 extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.githubpages",
     "sphinx.ext.todo",
     "sphinx_thebe",
-    "sphinxcontrib.googleanalytics",
+    # "sphinxcontrib.googleanalytics",
     "IPython.sphinxext.ipython_console_highlighting",
     "IPython.sphinxext.ipython_directive",
     "myst_nb",
@@ -64,9 +64,10 @@ myst_enable_extensions = [
     "substitution",
     "tasklist",
 ]
+
 # Google Analytics ID to enable tracking of site traffic
-googleanalytics_id = "G-0BR3D08MFS"
-googleanalytics_enabled = True
+#googleanalytics_id = "G-0BR3D08MFS"
+#googleanalytics_enabled = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -125,7 +126,7 @@ html_theme_options = {
     "repository_url": "https://github.com/GeoPython-UPD/site",
     "repository_branch": "dev-upd",
     "path_to_docs": "source/",
-    "google_analytics_id": "G-0BR3D08MFS",
+    #"google_analytics_id": "G-0BR3D08MFS",
     "use_edit_page_button": True,
     "use_repository_button": True,
     "launch_buttons": {
@@ -220,3 +221,19 @@ execution_allow_errors = True
 jupyter_execute_notebooks = "auto"
 
 execution_excludepatterns = ['errors']
+
+# -- Options for Texinfo output ----------------------------------------------
+
+# Grouping the document tree into Texinfo files. List of tuples
+# (source start file, target name, title, author,
+#  dir menu entry, description, category)
+texinfo_documents = [
+    (master_doc, 'GeoscienceDataAnalysisandModelingTechniques', 'Geoscience Data Analysis and Modeling Techniques Documentation',
+     author, 'GDAM', 'One line description of project.',
+     'Miscellaneous'),
+]
+
+
+# -- Extension configuration -------------------------------------------------
+# Allow errors when parsing pages using nbsphinx
+nbsphinx_allow_errors = True
