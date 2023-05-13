@@ -23,4 +23,13 @@ After completing this week's lesson you should be able to:
 Lesson materials
 ----------------
 
-To be uploaded after class
+Lesson videos
+-------------
+
+.. admonition:: Lesson 8.1 - Comparing observations to predictions 
+    
+    .. raw:: html
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DRF31fQxfnQ " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+
