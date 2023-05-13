@@ -48,7 +48,22 @@ extensions = [
     "myst_nb",
     "jupyter_sphinx",
 ]
-
+myst_enable_extensions = [
+    "amsmath",
+    "attrs_inline",
+    "colon_fence",
+    "deflist",
+    "dollarmath",
+    "fieldlist",
+    "html_admonition",
+    "html_image",
+    "linkify",
+    "replacements",
+    "smartquotes",
+    "strikethrough",
+    "substitution",
+    "tasklist",
+]
 # Google Analytics ID to enable tracking of site traffic
 googleanalytics_id = "G-0BR3D08MFS"
 googleanalytics_enabled = True
