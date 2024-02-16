@@ -24,11 +24,11 @@ Part 1 - Sign up for GitHub
 3. Enter a username, email address, and password. Click Create an account.
 4. When prompted to select a plan, choose the free option.
 
-Part 2 - Discord
+Part 2 - UVLe
 --------------
 
-1. Go to our **Discord** server (check your email for the invite link, or email us if it's missing)
-2. **Post a new message** in the `#week-1 <https://discord.com/channels/1076414283103088640/1076414283543482448>`__ channel with your **full name, GitHub username, year and course/current status**.
+1. Go to our **UVe** page <https://uvle.upd.edu.ph/course/view.php?id=12198>`_ and joing using the enrollment key
+2. **Post a reply** in the Exercise 1 discussion post with your **full name, GitHub username, year and course/current status**.
 
 For example,
 ``JD Dianala, jdaled, teacher since 2011``
