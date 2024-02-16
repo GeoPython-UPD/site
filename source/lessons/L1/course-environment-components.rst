@@ -8,7 +8,7 @@ During this course, we will use different tools and applications for programming
 3. `Cloud computing environments`_ Binder
 4. `Git and GitHub`_ for version control and documentation
 5. `Voting / polling  <#voting-and-polling>`_ for interactive questions during the lectures
-6. `Discord`_ for communicating between students
+6. `UVLe`_ for communicating between students
 7. `Zoom`_ for live session at UH
 
 Interactive code cells
@@ -117,7 +117,7 @@ During the lectures we will ask you questions by using an easy-to-use polling-sy
 UVLe
 -----
 
-During the course we will use actively our `UVLe page <https://uvle.upd.edu.ph/course/view.php?id=12198>`_ for discussion and questions about the lessons and exercises.
+During the course we will use actively our `UVLe page <https://uvle.upd.edu.ph/course/view.php?id=5771>`_ for discussion and questions about the lessons and exercises.
 ..
 
 
