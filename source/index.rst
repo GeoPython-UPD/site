@@ -99,11 +99,11 @@ New materials are updated on this course page each Saturday.
 |          | Part II +            |
 |          | Dealing with errors  |
 +----------+----------------------+
-|**8**    | Data visualization   |
+|**8**     | Data visualization   |
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**9**    | Basic statistics     |
+|**9**     | Basic statistics     |
 |          |                      |
 |          |                      |
 +----------+----------------------+
@@ -131,7 +131,7 @@ New materials are updated on this course page each Saturday.
 .. admonition:: Step by step instructions with cloud computing!
 
     The materials are written in a way that you can follow them step by step exactly as they are written, as long as you use the cloud computing resources that
-    we provide for you (namely JupyterLab Notebooks using Binder). Read more about our cloud computing environment from :doc:`here <lessons/L1/course-environment-components>`.
+    we provide for you (namely JupyterLab Notebooks using Binder or the CS JupyterHub). Read more about our cloud computing environment from :doc:`here <lessons/L1/course-environment-components>`.
     If you work from your own computer, **you need to adjust the file paths to the data** accordingly.
 
 
@@ -156,11 +156,11 @@ New materials are updated on this course page each Saturday.
     notebooks/L1/a-taste-of-python.ipynb
     notebooks/L1/gcp-1-variable-naming.ipynb
     lessons/L1/exercise-1
-..
+..  
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 2
-..
+
     lessons/L2/overview
     notebooks/L2/Python-basic-elements.ipynb
     lessons/L2/intro-to-GitHub
@@ -169,7 +169,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L2/gcp-2-describing-code.ipynb
     lessons/L2/why-pairs
     lessons/L2/exercise-2
-
+..  
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 3
@@ -179,7 +179,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L3/conditional-statements.ipynb
     notebooks/L3/gcp-3-pep8.ipynb
     lessons/L3/exercise-3
-..
+.. 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 4
@@ -190,7 +190,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L4/modules.ipynb
     notebooks/L4/gcp-4-writing-scripts.ipynb
     lessons/L4/exercise-4
-..
+.. 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 5
@@ -200,7 +200,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L5/exploring-data-using-pandas_eq.ipynb
     notebooks/L5/processing-data-with-pandas_eq.ipynb
     lessons/L5/exercise-5
-..
+..  
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 6
@@ -210,7 +210,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L6/errors.ipynb
     notebooks/L6/gcp-5-assertions.ipynb
     notebooks/L6/debugging_short.ipynb
-..
+..  
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 7
@@ -222,7 +222,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L7/advanced-plotting.ipynb
     notebooks/L7/cartopy.ipynb
     
-..
+..  
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 8
@@ -234,31 +234,27 @@ New materials are updated on this course page each Saturday.
     notebooks/L8/reporting-measurements.ipynb
     notebooks/L8/normal-distribution.ipynb
     lessons/L8/exercise-8
-..    
+..  
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 9
-<<<<<<< HEAD
-..
+
     notebooks/L8/curve-fitting.ipynb
-..
-=======
-    
     lessons/L9/overview
     notebooks/L9/least-squares.ipynb
     notebooks/L9/linear-correlation.ipynb
     notebooks/L9/goodness-of-fit.ipynb
     lessons/L9/exercise-9
-
->>>>>>> 9e53bd8d6939578024f0b5f2a487c6b086b73d1d
+..  
 .. toctree::
     :maxdepth: 2
     :caption: Final exercise
-..
+
     final-exercise/overview
     final-exercise/grading.ipynb
 
- .. toctree::
+..  
+.. toctree::
     :maxdepth: 2
     :caption: Resources
 
