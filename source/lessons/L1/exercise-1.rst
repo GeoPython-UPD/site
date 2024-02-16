@@ -50,12 +50,12 @@ Part 3 - Cooking up some Python
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/4nYU8hft>`__.
+    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/Lu6AtaF5>`__.
 
 
 1. Start the coding exercise by accepting the GitHub Classroom assignment (click on the link above).
 2. Read the instructions from the repository.
-3. Launch a new JupyterLab instance. *You can use Binder.*
+3. Launch a new JupyterLab instance. *You can use teh CS JupyterHub (if within Dilnet) or Binder (if not in Dilnet).*
 4. Cook up some Python according to the instructions!  *Remember to save your work ;) !*
 5. Download your solution, and upload it to GitHub.com into your personal Exercise 1 repository.
 
@@ -65,13 +65,13 @@ Part 3 - Cooking up some Python
 
     Each week, you will create a personal copy of the exercise repository on GitHub.com by clicking on the GitHub classroom link.
 
-    You can also take a look at the template repository on GitHub: https://github.com/NIGS-GeoPython-2023/Exercise-1 .
+    You can also take a look at the template repository on GitHub: https://github.com/NIGS-GeoPython-2024/Exercise-1 .
     Note that you are only able to make changes in your personal repository generated via GitHub Classroom.
 
 Summary (what to submit)
 ------------------------
 
-1. Post a message in the `#week-1 <https://discord.com/channels/1076414283103088640/1076414283543482448>`__ channel at in our Discord server with your name, GitHub username and course.
+1. Post a reply in the Exercise 1 post in UVLe with your name, GitHub username and course.
 2. Accept Exercise-1 in Github classroom and upload the jupyter notebook (file name should be ``Exercise-1.ipynb``) containing your solutions for Part 3.
 
 .. admonition:: Private repositories

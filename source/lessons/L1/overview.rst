@@ -25,16 +25,14 @@ Lesson videos
 -------------
 
 .. admonition:: Lesson 1.1 - Course introduction and motivation
-   *Recordings of the Zoom meeting will be put here after the class.*
-    
-
+.. 
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/I24wqWqvEVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>J.D. Dianala, University of the Philippines. </p>
 
 .. admonition:: Lesson 1.2 - Course environment and a taste of Python
-
+.. 
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/OWD9lNN1soc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

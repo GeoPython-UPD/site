@@ -114,20 +114,12 @@ During the lectures we will ask you questions by using an easy-to-use polling-sy
     The polling system is active only **during** the lessons. If you access the website outside the lecture times, you
     will most probably see only a white page without any content.
 
-Discord
+UVLe
 -----
 
-During the course we will use actively an application called `Discord <https://discord.com/>`__ for discussion and questions about the lessons and exercises.
-All enrolled students have received an invite link to the `geo-python2021` workspace at the start of the course.
-:doc:`Read more about Discord  <discord-usage>`.
+During the course we will use actively our `UVLe page <https://uvle.upd.edu.ph/course/view.php?id=12198>`_ for discussion and questions about the lessons and exercises.
+..
 
-..
-Zoom
-------
-..
-We will use zoom during the live sessions at the UP Diliman during the remote teaching period of 2nd Semester, AY 2021-2022.
-..
-Zoom link and details are in UVLe and Discord and were sent out via email to registered students.
 
 Page summary
 ------------
