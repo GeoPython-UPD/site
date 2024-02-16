@@ -2,10 +2,10 @@
 # Push HTML files to gh-pages automatically.
 
 # Fill this out with the correct org/repo
-ORG=geo-python
+ORG=geopython-upd
 REPO=site
 # This probably should match an email for one of your users.
-EMAIL=david.whipp@helsinki.fi
+EMAIL=jddianala@nigs.upd.edu.ph
 
 set -e
 
