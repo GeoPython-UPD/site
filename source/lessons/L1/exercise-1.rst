@@ -27,7 +27,7 @@ Part 1 - Sign up for GitHub
 Part 2 - UVLe
 --------------
 
-1. Go to our **UVe** page <https://uvle.upd.edu.ph/course/view.php?id=5771>`_ and joing using the enrollment key
+1. Go to our `**UVLe** page <https://uvle.upd.edu.ph/course/view.php?id=5771>`_ and joing using the enrollment key
 2. **Post a reply** in the Exercise 1 discussion post with your **full name, GitHub username, year and course/current status**.
 
 For example,
