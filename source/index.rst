@@ -160,7 +160,7 @@ New materials are updated on this course page each Saturday.
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 2
-..
+
     lessons/L2/overview
     notebooks/L2/Python-basic-elements.ipynb
     lessons/L2/intro-to-GitHub
