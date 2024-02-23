@@ -19,10 +19,10 @@ After this week you will be able to:
 
 Lesson videos
 -------------
-
+..
 .. admonition:: Lesson 2.1 - Lists and working with different data types
  
-    .. raw:: html
+..    .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/JZClbtFRwZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>J.D. Dianala, University of the Philippines. </p>
