@@ -21,6 +21,11 @@ Note that you should not try to make changes to this copy of the exercise, but r
 Cloud computing environments
 ----------------------------
 
+.. image:: https://img.shields.io/badge/Launch-CS_Hub-blue
+   :target: http://jhub.science.upd.edu.ph/hub/auth/change-password 
+
+(GDAM Students: The button above will allow you to reset your password.)
+
 .. image:: https://img.shields.io/badge/launch-binder-red.svg
    :target: https://mybinder.org/v2/gh/GeoPython-UPD/Binder/main
    
