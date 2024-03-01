@@ -7,7 +7,7 @@ Exercise 3
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 3 by 18 March 2023** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/0tC6VcyM>`__.
+    **You can start working on your copy of Exercise 3 by 9 March 2024** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/57Pn8x1a>`__.
 
 You can also take a look at the template repository for `Exercise 3 on GitHub <https://github.com/NIGS-GeoPython-2023/exercise-3.git>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
@@ -20,6 +20,9 @@ Note that you should not try to make changes to this copy of the exercise, but r
 
 Cloud computing environments
 ----------------------------
+
+.. image:: https://img.shields.io/badge/Launch-CS_Hub-blue
+   :target: http://jhub.science.upd.edu.ph/
 
 .. image:: https://img.shields.io/badge/launch-binder-red.svg
    :target: https://mybinder.org/v2/gh/GeoPython-UPD/Binder/main
