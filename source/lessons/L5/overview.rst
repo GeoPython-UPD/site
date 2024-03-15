@@ -15,19 +15,20 @@ After this weeks lesson your should be able to:
 - Do simple data analysis using pandas data structures and functions
 - Write data to a .csv text file
 
+
 Lesson videos
 -------------
-
+..
 .. admonition:: Lesson 5.1 - Exploring data using pandas
-
+..
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/PAKlT9dXTNc " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>J.D. Dianala, 2023. University of the Philippines. </p>
 
-
+..
 .. admonition:: Lesson 5.2 - Processing data using pandas
-
+..
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/HwTBD19INqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

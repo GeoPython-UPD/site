@@ -7,7 +7,7 @@ Exercise 5
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 5 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/vf0z5GV1>`__.
+    **You can start working on your copy of Exercise 5 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/XGt57tuW>`__.
 
 You can also take a look at the template repository for `Exercise 5 on GitHub <https://github.com/NIGS-GeoPython-2023/exercise-5>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
@@ -19,6 +19,9 @@ Note that you should not try to make changes to this copy of the exercise, but r
 
 Cloud computing environments
 -----------------------------
+
+.. image:: https://img.shields.io/badge/Launch-CS_Hub-blue
+   :target: http://jhub.science.upd.edu.ph/
 
 .. image:: https://img.shields.io/badge/launch-binder-red.svg
    :target: https://mybinder.org/v2/gh/GeoPython-UPD/Binder/main?urlpath=lab
