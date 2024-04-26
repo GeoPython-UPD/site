@@ -7,7 +7,7 @@ Exercise 8
 
 .. admonition:: Start your assignment
 
-    You can start working on your copy of Exercise 8 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/xyIXnjy2>`__.
+    You can start working on your copy of Exercise 8 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/VMDq6gIM>`__.
 
     **Exercise 8 is due on May 13, 2023**.
 
