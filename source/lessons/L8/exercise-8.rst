@@ -9,7 +9,7 @@ Exercise 8
 
     You can start working on your copy of Exercise 8 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/VMDq6gIM>`__.
 
-    **Exercise 8 is due on May 13, 2023**.
+    **Exercise 8 is due on May 11, 2024**.
 
 You can also take a look at the open course copy of `Exercise 8 in the course GitHub repository <https://github.com/NIGS-GeoPython-2023/exercise-8>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
