@@ -26,7 +26,7 @@ Lesson materials
 Lesson videos
 -------------
 
-.. admonition:: Lesson 8.1 - Comparing observations to predictions 
+.. admonition:: Lesson 9.1 - Comparing observations to predictions 
     
     .. raw:: html
 
