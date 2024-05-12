@@ -24,10 +24,10 @@ After completing this week's lesson you should be able to:
 
 Lesson videos
 -------------
-..
+
 .. admonition:: Lesson 8.1 - Intro to NumPy and Basic statistics
-..    
+    
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/rFSjkJWVXPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/R3tIaOxdirY?si=sjUeRHSveE_Xa6ce&amp;start=555" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         
