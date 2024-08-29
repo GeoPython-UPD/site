@@ -100,22 +100,6 @@ New materials are updated on this course page each Saturday.
 |          | and regressons       |
 |          |                      |
 +----------+----------------------+
-|**10**    | Spatial anlaysis I   |
-|          |                      |
-|          |                      |
-+----------+----------------------+
-|**11**    | Spatial analysis II  |
-|          |                      |
-|          |                      |
-+----------+----------------------+
-|**12**    | Case study, part I:  |
-|          | Finding data         |
-|          |                      |
-+----------+----------------------+
-|**13**    | Case study, part II: |
-|          | Analyzing and        |
-|          | presenting data      |
-+----------+----------------------+
 
 
 .. admonition:: Step by step instructions with cloud computing!
