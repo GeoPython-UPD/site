@@ -5,7 +5,7 @@
 
 .. figure:: img/banner/geo-python-2020.png
 
-Welcome to Geo-Python, Geol 197 GDAM edition!
+Welcome to Geo-Python, UPD Geology edition!
 ===========================
 
 The **Geo-Python** course teaches you the basic concepts of programming and scientific data analysis using the Python programming language
@@ -13,7 +13,7 @@ in a format that is easy to learn and understand (no previous programming experi
 Each lesson is a tutorial with specific topic(s) where the aim is to gain skills and understanding
 how to solve common data-related tasks using Python.
 
-For Geol 197 GDAM, we have adapted the Geo-Python course originally offerred at the `Department of Geosciences and Geography <https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography>`__
+For Geol 197 GDAM and Geol 297 GDA, we have adapted the Geo-Python course originally offerred at the `Department of Geosciences and Geography <https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography>`__
 at the University of Helsinki.
 
 .. admonition:: Open Access!
@@ -23,13 +23,10 @@ at the University of Helsinki.
 
 .. admonition:: To anyone accessing this course
 
-    This is the second time we are offering this specific course with content slightly tailored and localized towards the average senior-standing University fo the Philippines geology student.  The course is a work in progress, and we continue to improve the materials, so please forgive any inconsistencies or mistakes.  Contact us if you notice anything!
+    Now on the 4th year of offering, this course has content slightly tailored and localized towards the average senior-standing University fo the Philippines geology student.  The course is a work in progress, and we continue to improve the materials, so please forgive any inconsistencies or mistakes.  Contact us if you notice anything!
 
 Course format
 -------------
-
-The first 2/3 of this course  will be spent in front of a computer learning to program in the Python language.
-The last 1/3 is geared towards a more GIS approach to analysis and modeling.
 
 The course consists of interactive lectures and weekly exercises. The exercises will focus on developing
 basic programming skills using Python and applying those skills to various analytical problems.
@@ -40,11 +37,14 @@ on the weekly exercises. However, the exercises you submit must be completed ind
 must clearly reflect your own work (in short, don't copy paste from other students).
 
 
-.. admonition:: On-site (F2F) teaching
+This course is used for the first 2/3 of two courses: Geology 197 Special Topics: Geoscience Data Analysis and Modeling Techniques, and Geology 297 Special Topics: Geoscience Data anlaysis.  The former is an undergraduate course designed to give students a taste of techniques in data science and advanced GIS (hence the name...). 
+The latter is desgined for graduate students who will work on a mini-project that may or may not be related to their thesis. 
 
-    We aim to deliver this course primarily in-person during the 2nd semester of AY 2023-2024.
-    Online support will be available throughout the course during the weekly exercise sessions and discussion channels in Discord.
-    Details of participation in the exercise sessions will be sent out to enrolled students.
+[This is a comment that will be hidden.]: # 
+
+[.. admonition:: On-site (F2F) teaching]: #
+[..]: #
+[    We aim to deliver this course primarily in-person during the 2nd semester of AY 2023-2024. Online support will be available throughout the course during the weekly exercise sessions and discussion channels in Discord. Details of participation in the exercise sessions will be sent out to enrolled students.]: #
 
 Course topics
 -------------
@@ -62,71 +62,61 @@ New materials are updated on this course page each Saturday.
 +----------+----------------------+
 | Week     | Theme                |
 +==========+======================+
-|**1**     | Orientation          |
-|          |                      |
-|          |                      |
-|          |                      |
-+----------+----------------------+
-|**2**     | Basic concepts of    |
+|**1**     | Basic concepts of    |
 |          | Python and           |
 |          | computer programs    |
 |          |                      |
 +----------+----------------------+
-|**3**     | Diving into Python   |
+|**2**     | Diving into Python   |
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**4**     | Repeating tasks      |
+|**3**     | Repeating tasks      |
 |          | and making decisions |
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**5**     | Creating and using   |
+|**4**     | Creating and using   |
 |          | functions            |
 |          |                      |
 +----------+----------------------+
-|**6**     | Data analysis        |
+|**5**     | Data analysis        |
 |          | Part I               |
 |          |                      |
 +----------+----------------------+
-|          | *Lenten break*       |
-|          |                      |
-+----------+----------------------+
-|          | *Reading break*      |
-|          |                      |
-+----------+----------------------+
-|**7**     | Data analysis        |
+|**6**     | Data analysis        |
 |          | Part II +            |
 |          | Dealing with errors  |
 +----------+----------------------+
-|**8**     | Data visualization   |
+|**7**     | Data visualization   |
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**9**     | Basic statistics     |
+|**8**     | Basic geostatistics: |
+|          | Univariate analysis  |
+|          |                      |
++----------+----------------------+
+|**9**     | Bivariate analysis   |
+|          | and regressons       |
+|          |                      |
++----------+----------------------+
+|**10**    | Spatial anlaysis I   |
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**10**    | Comparing            |
-|          | predictions          |
-|          | to observations      |
-+----------+----------------------+
-|**11**    | Automating GIS       |
-|          | processes            |
-|          |                      |
-+----------+----------------------+
-|**12**    | Digital elevation    |
-|          | modeling             |
-|          |                      |
-+----------+----------------------+
-|**13**    | Drone practical      |
+|**11**    | Spatial analysis II  |
 |          |                      |
 |          |                      |
 +----------+----------------------+
-|**14**    | Applied geologic     |
-|          | modeling             |
+|**12**    | Case study, part I:  |
+|          | Finding data         |
 |          |                      |
 +----------+----------------------+
+|**13**    | Case study, part II: |
+|          | Analyzing and        |
+|          | presenting data      |
++----------+----------------------+
+
 
 .. admonition:: Step by step instructions with cloud computing!
 
