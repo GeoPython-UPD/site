@@ -31,9 +31,10 @@ Instructors
     * Email: rlybanez@up.edu.ph
 
 
-    Course websites
-    ---------------
-    - `UVLe site <https://uvle.upd.edu.ph/course/view.php?id=12198>`_
+Course websites
+---------------
+- `UVLe site <https://uvle.upd.edu.ph/course/view.php?id=20196>`_
+- `Github Classroom <https://classroom.github.com/classrooms/159227865-nigs-geol-297-gda>`_
 
 
 
