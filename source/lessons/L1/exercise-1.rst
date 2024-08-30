@@ -6,7 +6,7 @@ Exercise 1
     Please complete this exercise **by the start of the next lesson**.
 
 The exercise for this week has three parts. First, you will **create an account on GitHub.com**. Next, you will
-**let us know your GitHub username via Discord**. Finally, you will **cook up some Python** using the skills you learned during the first lesson!
+**let us know your GitHub username via UVLe**. Finally, you will **cook up some Python** using the skills you learned during the first lesson!
 
 Part 1 - Sign up for GitHub
 ---------------------------
@@ -27,8 +27,8 @@ Part 1 - Sign up for GitHub
 Part 2 - UVLe
 --------------
 
-1. Go to our `**UVLe** page <https://uvle.upd.edu.ph/course/view.php?id=5771>`_ and joing using the enrollment key
-2. **Post a reply** in the Exercise 1 discussion post with your **full name, GitHub username, year and course/current status**.
+1. Go to our `**UVLe** page <https://uvle.upd.edu.ph/course/view.php?id=20196>`_ and joing using the enrollment key
+2. **Post a reply** in the Exercise 1 discussion post with your **full name, GitHub username, degree program**.
 
 For example,
 ``JD Dianala, jdaled, teacher since 2011``
@@ -44,18 +44,18 @@ This will help us know you were able to create your account, that you have also 
 Part 3 - Cooking up some Python
 -------------------------------
 
-.. image:: https://img.shields.io/badge/launch-binder-red.svg
-   :target: https://mybinder.org/v2/gh/Geo-Python-2023/Binder/main?urlpath=lab
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Geo-Python-2023/Binder/HEAD
    
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/Lu6AtaF5>`__.
+    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/mr8chGiF>`__.
 
 
 1. Start the coding exercise by accepting the GitHub Classroom assignment (click on the link above).
 2. Read the instructions from the repository.
-3. Launch a new JupyterLab instance. *You can use teh CS JupyterHub (if within Dilnet) or Binder (if not in Dilnet).*
+3. Launch a new JupyterLab instance. *You can use the CS JupyterHub (if within Dilnet) or Binder (if not in Dilnet).*
 4. Cook up some Python according to the instructions!  *Remember to save your work ;) !*
 5. Download your solution, and upload it to GitHub.com into your personal Exercise 1 repository.
 
