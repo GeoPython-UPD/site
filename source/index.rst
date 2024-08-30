@@ -40,11 +40,13 @@ must clearly reflect your own work (in short, don't copy paste from other studen
 This course is used for the first 2/3 of two courses: Geology 197 Special Topics: Geoscience Data Analysis and Modeling Techniques, and Geology 297 Special Topics: Geoscience Data anlaysis.  The former is an undergraduate course designed to give students a taste of techniques in data science and advanced GIS (hence the name...). 
 The latter is designed for graduate students who will work on a mini-project that may or may not be related to their thesis. 
 
-[This is a comment that will be hidden.]: # 
+<!---
 
 [.. admonition:: On-site (F2F) teaching]: #
 [..]: #
 [    We aim to deliver this course primarily in-person during the 2nd semester of AY 2023-2024. Online support will be available throughout the course during the weekly exercise sessions and discussion channels in Discord. Details of participation in the exercise sessions will be sent out to enrolled students.]: #
+
+-->
 
 Course topics
 -------------
