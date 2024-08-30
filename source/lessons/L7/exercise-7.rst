@@ -24,8 +24,6 @@ Cloud computing environments
 .. image:: https://img.shields.io/badge/launch-binder-red.svg
    :target: https://mybinder.org/v2/gh/Geo-Python-2021/Binder/main?urlpath=lab
    
-.. image:: https://img.shields.io/badge/launch-CSC%20notebook-blue.svg
-   :target: https://notebooks.csc.fi/#/blueprint/1b4c5cbce4ab4acb8976e93a1f4de3dc
 
 Hints for Exercise 7
 --------------------
