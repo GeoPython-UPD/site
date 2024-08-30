@@ -5,15 +5,15 @@ This is a course offered primarily to Geology students at the National Institute
 
 Course materials are freely available online for anyone interested in the course contents.
 
-Course meetings for 2nd Sem, AY 2023-20234
+Course meetings for 1st Sem, AY 2024-2025
 ---------------------------
 
 - Lectures:
    - Saturdays 13:00 - 16:00
 - JD's Consultation hours:
-   - Tuesdays  : 10:00 AM - 4:00 PM
-   - Wednesdays: 1:00 PM - 6:00 PM
-   - Thursdays : 10:00 AM - 2:30 PM
+   - Tuesdays  : 10:00 - 16:00
+   - Wednesdays: 13:00 - 18:00
+   - Thursdays : 10:00 - 14:30
 
 
 Instructors
@@ -21,14 +21,15 @@ Instructors
 
 * John Dale Dianala (JD)
 
-  * Office: NIGS 229 / Remote
+  * Office: NIGS 229 or NIGS 126 / Remote
   * Email: jddianala@nigs.upd.edu.ph
 
+<!---
 * Richard Ybañez (Rich)
 
   * Office: Remote
-  * Email: richard.ybanez@nigs.upd.edu.ph
-
+  * Email: rlybanez@up.edu.ph
+-->
 
     Course websites
     ---------------
