@@ -24,12 +24,12 @@ Instructors
   * Office: NIGS 229 or NIGS 126 / Remote
   * Email: jddianala@nigs.upd.edu.ph
 
-<!---
-* Richard Ybañez (Rich)
+..
+    * Richard Ybañez (Rich)
 
-  * Office: Remote
-  * Email: rlybanez@up.edu.ph
--->
+    * Office: Remote
+    * Email: rlybanez@up.edu.ph
+
 
     Course websites
     ---------------
