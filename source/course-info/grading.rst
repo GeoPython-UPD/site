@@ -6,7 +6,8 @@ General grading breakdown
 
 Your grade will be determined as follows:
 
-- 60% Exam
+- 50% Exam
+- 10% Case study
 - 40% Exercises
 
 .. figure:: img/grades.png
