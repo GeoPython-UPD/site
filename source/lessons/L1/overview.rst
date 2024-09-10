@@ -25,17 +25,17 @@ Lesson videos
 -------------
 
 .. admonition:: Lesson 1.1 - Course introduction and motivation
-.. 
+ 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/I24wqWqvEVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/I0iXc_OOags?si=9e-34i6bjwFUBOEW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <p>J.D. Dianala, University of the Philippines. </p>
 
 .. admonition:: Lesson 1.2 - Course environment and a taste of Python
-.. 
+ 
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/OWD9lNN1soc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7jJKlXvbTE?si=Jz8hQ42WxaJoCA71" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
        <p>J.D. Dianala, University of the Philippines. </p>
 
 .. admonition:: GCP 1 - Selecting "good" variable names
