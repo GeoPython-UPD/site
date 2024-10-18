@@ -21,12 +21,12 @@ After completing this week's lesson you should be able to:
 - Create arrays of values using NumPy
 - Understand some basic statistical terms and how they are defined
 - Write your own functions for basic (geo)statistical analysis
-
+.. 
 Lesson videos
 -------------
-
+.. 
 .. admonition:: Lesson 8.1 - Intro to NumPy and Basic statistics
-    
+..     
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/R3tIaOxdirY?si=sjUeRHSveE_Xa6ce&amp;start=555" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
