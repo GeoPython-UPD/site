@@ -7,7 +7,7 @@ Exercise 9
 
 .. admonition:: Start your assignment
 
-    You can start working on your copy of Exercise 9 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/Q5JUy1lJ>`__.
+    You can start working on your copy of Exercise 9 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/Q8kPXeed>`__.
 
     **Exercise 9 is due by the start of lecture on 9 November 2024**.
 
