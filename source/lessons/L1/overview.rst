@@ -45,10 +45,10 @@ Lesson videos
         <iframe width="560" height="315" src="https://www.youtube.com/embed/G0FZkgbQYGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>Dave Whipp & Vuokko Heikinheimo, University of Helsinki <a href="https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A">@ Geo-Python channel on Youtube</a>.</p>
 
-
+.. 
 Lecture slides
 --------------
-
+.. 
 .. admonition:: Lesson slides
 
     `Slides for Lecture 1 (PDF) <../../_static/01-Computers-and-programs.pdf>`__
