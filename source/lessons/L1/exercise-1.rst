@@ -24,7 +24,7 @@ Part 1 - Sign up for GitHub
 3. Enter a username, email address, and password. Click Create an account.
 4. When prompted to select a plan, choose the free option.
 
-Part 2 - UVLe
+Part 2 - Discord
 --------------
 
 1. Go to our `**Discord** page <https://discord.gg/zH9TNa54>`_ and join using the enrollment key
