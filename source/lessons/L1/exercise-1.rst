@@ -27,8 +27,8 @@ Part 1 - Sign up for GitHub
 Part 2 - UVLe
 --------------
 
-1. Go to our `**UVLe** page <https://uvle.upd.edu.ph/course/view.php?id=20196>`_ and joing using the enrollment key
-2. **Post a reply** in the Exercise 1 discussion post with your **full name, GitHub username, degree program**.
+1. Go to our `**Discord** page <https://discord.gg/zH9TNa54>`_ and join using the enrollment key
+2. **Post a reply** in the Exercise 1 channel with your **full name, GitHub username, degree program**.
 
 For example,
 ``JD Dianala, jdaled, teacher since 2011``
@@ -38,8 +38,7 @@ This will help us know you were able to create your account, that you have also 
 
 .. note::
 
-    In case you're curious, we need your GitHub user name in order to access your exercise repositories in GitHub
-    for grading and feedback.
+    In case you're curious, we need your GitHub user name in order to access your exercise repositories in GitHub for grading and feedback.
 
 Part 3 - Cooking up some Python
 -------------------------------
@@ -50,7 +49,7 @@ Part 3 - Cooking up some Python
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/mr8chGiF>`__.
+    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/2O1ZDe0w>`__.
 
 
 1. Start the coding exercise by accepting the GitHub Classroom assignment (click on the link above).
