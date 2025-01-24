@@ -40,11 +40,6 @@ must clearly reflect your own work (in short, don't copy paste from other studen
 This course is used for the first 2/3 of two courses: Geology 197 Special Topics: Geoscience Data Analysis and Modeling Techniques, and Geology 297 Special Topics: Geoscience Data anlaysis.  The former is an undergraduate course designed to give students a taste of techniques in data science and advanced GIS (hence the name...). 
 The latter is designed for graduate students who will work on a mini-project that may or may not be related to their thesis. 
 
-..
-    .. admonition:: On-site (F2F) teaching
-..
-    We aim to deliver this course primarily in-person during the 2nd semester of AY 2023-2024. Online support will be available throughout the course during the weekly exercise sessions and discussion channels in Discord. Details of participation in the exercise sessions will be sent out to enrolled students.
-
 
 Course topics
 -------------
@@ -129,7 +124,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L1/a-taste-of-python.ipynb
     notebooks/L1/gcp-1-variable-naming.ipynb
     lessons/L1/exercise-1
-
+.. 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 2
@@ -142,7 +137,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L2/gcp-2-describing-code.ipynb
     lessons/L2/why-pairs
     lessons/L2/exercise-2
-
+.. 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 3
@@ -152,7 +147,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L3/conditional-statements.ipynb
     notebooks/L3/gcp-3-pep8.ipynb
     lessons/L3/exercise-3
-
+.. 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 4
@@ -164,7 +159,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L4/gcp-4-writing-scripts.ipynb
     lessons/L4/exercise-4
 
-
+.. 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 5
@@ -174,7 +169,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L5/exploring-data-using-pandas_eq.ipynb
     notebooks/L5/processing-data-with-pandas_eq.ipynb
     lessons/L5/exercise-5
-
+.. 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 6
@@ -184,7 +179,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L6/errors.ipynb
     notebooks/L6/gcp-5-assertions.ipynb
     notebooks/L6/debugging_short.ipynb
-
+.. 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 7
@@ -195,7 +190,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L7/matplotlib.ipynb
     notebooks/L7/advanced-plotting.ipynb
     notebooks/L7/cartopy.ipynb
-
+.. 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 8
@@ -207,7 +202,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L8/reporting-measurements.ipynb
     notebooks/L8/normal-distribution.ipynb
     lessons/L8/exercise-8
-    
+.. 
 .. toctree::
     :maxdepth: 2
     :caption: Lesson 9
