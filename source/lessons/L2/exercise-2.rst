@@ -9,7 +9,7 @@ Exercise 2
 
     **You can start working on your copy of Exercise 2 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/Z8UVFh6E>`__.
 
-You can also take a look at the template repository for `Exercise 2 on GitHub <https://github.com/NIGS-GeoPython-2024/Exercise-2>`__ (does not require logging in).
+You can also take a look at the template repository for `Exercise 2 on GitHub <https://github.com/NIGS-GeoPython-2024/nigs-geopython-2024-197gdam-exercise-2-exercise-2>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
 .. admonition:: Pair programming
