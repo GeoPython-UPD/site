@@ -22,7 +22,7 @@ Cloud computing environments
 ----------------------------
 
 .. image:: https://img.shields.io/badge/Launch-CS_Hub-blue
-   :target: http://jhub.science.upd.edu.ph/
+   :target: http://jhub.science.upd.edu.ph/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNIGS-GeoPython-2024%2Fnigs-geopython-2024-197gdam-exercise-3-exercise-3&urlpath=lab%2Ftree%2Fnigs-geopython-2024-197gdam-exercise-3-exercise-3%2FREADME.md&branch=main
 
 .. image:: https://img.shields.io/badge/launch-binder-red.svg
    :target: https://mybinder.org/v2/gh/GeoPython-UPD/Binder/main
