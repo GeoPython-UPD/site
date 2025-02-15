@@ -17,19 +17,19 @@ After this weeks lesson your should be able to:
 - Create your own functions to calculate an output value based on an input value
 - Save functions to a script file for future use
 
-..
+
 Lesson videos
 -------------
 
 .. admonition:: Lesson 4.0 - Exercise 3 problem 4
-.. 
+ 
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/HwPE3YMaPPk?si=Bqz2uU3VeKln4N6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>J.D. Dianala, University of the Philippines. </p>
 
 .. admonition:: Lesson 4.1 - Introduction to Functions
-..  
+  
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/roLLojB5pkU?si=rZWTDgF9-VXhFydj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,14 +37,14 @@ Lesson videos
 
  
 .. admonition:: Lesson 4.2 - Functions in script files and using modules
-.. 
+ 
     .. raw:: html
      
         <iframe width="560" height="315" src="https://www.youtube.com/embed/Cl0xVPsAnNw?si=Yme9wIbApVt5wAH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>J.D. Dianala, University of the Philippines. </p>
 
 .. admonition:: Lesson 4.3 - GCP 4 (Comments, docstrings); Exercise 4 Intro
-..  
+  
     .. raw:: html
      
         <iframe width="560" height="315" src="https://www.youtube.com/embed/Cl0xVPsAnNw?si=Yme9wIbApVt5wAH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
