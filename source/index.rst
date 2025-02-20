@@ -138,6 +138,26 @@ New materials are updated on this course page each Saturday.
     lessons/L2/why-pairs
     lessons/L2/exercise-2
 
+.. toctree::
+    :maxdepth: 2
+    :caption: Lesson 3
+
+    lessons/L3/overview
+    notebooks/L3/for-loops.ipynb
+    notebooks/L3/conditional-statements.ipynb
+    notebooks/L3/gcp-3-pep8.ipynb
+    lessons/L3/exercise-3
+    
+.. toctree::
+    :maxdepth: 2
+    :caption: Lesson 4
+
+    lessons/L4/overview
+    notebooks/L4/functions.ipynb
+    notebooks/L4/script-files.ipynb
+    notebooks/L4/modules.ipynb
+    notebooks/L4/gcp-4-writing-scripts.ipynb
+    lessons/L4/exercise-4
 
 .. toctree::
     :maxdepth: 2

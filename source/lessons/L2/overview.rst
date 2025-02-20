@@ -21,7 +21,7 @@ Lesson videos
 -------------
 
 .. admonition:: Lesson 2.1 - Lists and working with different data types
-..  
+ 
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/kdJ9W-91Icg?si=_o-Qk_W-iH2Qir6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -29,7 +29,7 @@ Lesson videos
 
 
 .. admonition:: Lesson 2.2 - Version contro and Commenting
-.. 
+ 
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/RJJuj3KrpDs?si=RYTpgXPmbz9kp-wA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

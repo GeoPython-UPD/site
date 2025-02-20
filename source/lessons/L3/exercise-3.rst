@@ -7,9 +7,9 @@ Exercise 3
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 3 by 21 September 2024** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/lIq8xMub>`__.
+    **You can start working on your copy of Exercise 3 by 21 September 2024** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/uqfGfBhK>`__.
 
-You can also take a look at the template repository for `Exercise 3 on GitHub <https://github.com/NIGS-GeoPython-2024/exercise-3.git>`__ (does not require logging in).
+You can also take a look at the template repository for `Exercise 3 on GitHub <https://github.com/NIGS-GeoPython-2024/nigs-geopython-2024-197gdam-exercise-3-exercise-3.git>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
 .. admonition:: Pair programming
@@ -22,7 +22,7 @@ Cloud computing environments
 ----------------------------
 
 .. image:: https://img.shields.io/badge/Launch-CS_Hub-blue
-   :target: http://jhub.science.upd.edu.ph/
+   :target: http://jhub.science.upd.edu.ph/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNIGS-GeoPython-2024%2Fnigs-geopython-2024-197gdam-exercise-3-exercise-3&urlpath=lab%2Ftree%2Fnigs-geopython-2024-197gdam-exercise-3-exercise-3%2FREADME.md&branch=main
 
 .. image:: https://img.shields.io/badge/launch-binder-red.svg
    :target: https://mybinder.org/v2/gh/GeoPython-UPD/Binder/main
