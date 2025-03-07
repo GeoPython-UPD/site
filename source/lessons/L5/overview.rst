@@ -20,7 +20,7 @@ Lesson videos
 -------------
 
 .. admonition:: Lesson 5.1 - Exploring data using pandas
-.. 
+ 
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/EKkPRCDadlI?si=TgROyaOFV132P2kY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -28,7 +28,7 @@ Lesson videos
 
 
 .. admonition:: Lesson 5.2 - Processing data using pandas; Exercise 5 introduction
-.. 
+ 
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/JfTIIhAQV0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
