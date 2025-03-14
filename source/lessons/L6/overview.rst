@@ -22,7 +22,7 @@ Lesson videos
 -------------
 
 .. admonition:: Lesson 6.1 - Pandas II: Renaming columns, applying functions
-.. 
+
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/p5y2Lf2jHWQ?si=xhUh9UKuxGvt21-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ Lesson videos
 
 
 .. admonition:: Lesson 6.2 - Pandas II: Parsing dates, grouping data; Debugging code
-.. 
+
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/lloQTbszhNU?si=YI_GXE7hVV1H715A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
