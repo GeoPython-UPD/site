@@ -190,6 +190,18 @@ New materials are updated on this course page each Saturday.
     notebooks/L7/advanced-plotting.ipynb
     notebooks/L7/cartopy.ipynb
 
+.. toctree::
+    :maxdepth: 2
+    :caption: Lesson 8
+
+    lessons/L8/overview
+    notebooks/L8/numpy.ipynb
+    notebooks/L8/basic-terms.ipynb
+    notebooks/L8/uncertainty.ipynb
+    notebooks/L8/reporting-measurements.ipynb
+    notebooks/L8/normal-distribution.ipynb
+    lessons/L8/exercise-8
+
 
 .. toctree::
     :maxdepth: 2
