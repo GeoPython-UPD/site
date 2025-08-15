@@ -23,16 +23,16 @@ After this weeks lesson your should be able to:
 
 Lesson videos
 -------------
-.. 
-.. admonition:: Lesson 1.1 - Course introduction and motivation (from 2022)
 
+.. admonition:: Lesson 1.1 - Course introduction and motivation (from 2022)
+.. 
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/I24wqWqvEVI?si=xnAqosGDfG-orKbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <p>J.D. Dianala, University of the Philippines. </p>
-.. 
-.. admonition:: Lesson 1.2 - Course environment and a taste of Python
 
+.. admonition:: Lesson 1.2 - Course environment and a taste of Python
+.. 
     .. raw:: html
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7jJKlXvbTE?si=Jz8hQ42WxaJoCA71" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
