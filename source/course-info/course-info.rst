@@ -5,14 +5,15 @@ This is a course offered primarily to Geology students at the National Institute
 
 Course materials are freely available online for anyone interested in the course contents.
 
-Course meetings for 2nd Sem, AY 2024-2025
+Course meetings for 1st Semester, AY 2025-2026
 ---------------------------
 
 - Lectures:
    - Saturdays 13:00 - 16:00
 - JD's Consultation hours:
-   - T Th      : 10:00 - 12:00
-   - Wednesdays: 13:00 - 18:00
+   - Tuesdays  : 13:00 - 17:00
+   - Wednesdays: 14:30 - 18:00
+   - Thursdays : 09:00 - 12:00
 
 
 Instructors
