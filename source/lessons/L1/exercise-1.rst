@@ -24,10 +24,10 @@ Part 1 - Sign up for GitHub
 3. Enter a username, email address, and password. Click Create an account.
 4. When prompted to select a plan, choose the free option.
 
-Part 2 - Discord
+Part 2 - UVLe
 --------------
 
-1. Go to our `**Discord** page <https://discord.gg/zH9TNa54>`_ and join using the enrollment key
+1. Go to our `**UVLe** page <https://uvle.upd.edu.ph/course/view.php?id=20196>`_ and join using the enrollment key given in the syllabus
 2. **Post a reply** in the Exercise 1 channel with your **full name, GitHub username, degree program**.
 
 For example,
@@ -49,7 +49,7 @@ Part 3 - Cooking up some Python
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/2O1ZDe0w>`__.
+    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/bGv2c5Bv>`__.
 
 
 1. Start the coding exercise by accepting the GitHub Classroom assignment (click on the link above).
