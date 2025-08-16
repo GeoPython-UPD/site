@@ -20,12 +20,12 @@
 # -- Project information -----------------------------------------------------
 
 project = "Geo-Python"
-copyright = "2024, J.D. Dianala, National Institute of Geological Sciences, University of the Philippines."
+copyright = "2025, J.D. Dianala, National Institute of Geological Sciences, University of the Philippines."
 # author = 'David Whipp, Henrikki Tenkanen, Vuokko Heikinheimo, Håvard Aagesen'
 author = "modified form original Geo-Python course of David Whipp, Henrikki Tenkanen, Vuokko Heikinheimo, Håvard Aagesen"
 
 # The short X.Y version
-version = "2024"
+version = "2025"
 # The full version, including alpha/beta/rc tags
 release = "site"
 
