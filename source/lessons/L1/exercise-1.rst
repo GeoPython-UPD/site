@@ -49,7 +49,7 @@ Part 3 - Cooking up some Python
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/bGv2c5Bv>`__.
+    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/EJjrtiMo>`__.
 
 
 1. Start the coding exercise by accepting the GitHub Classroom assignment (click on the link above).
@@ -64,7 +64,7 @@ Part 3 - Cooking up some Python
 
     Each week, you will create a personal copy of the exercise repository on GitHub.com by clicking on the GitHub classroom link.
 
-    You can also take a look at the template repository on GitHub: https://github.com/NIGS-GeoPython-2024/Exercise-1 .
+    You can also take a look at the template repository on GitHub: https://github.com/NIGS-GeoPython2025/nigs-geopython2025-geol297gda-exercise-1-exercise-1 .
     Note that you are only able to make changes in your personal repository generated via GitHub Classroom.
 
 Summary (what to submit)
