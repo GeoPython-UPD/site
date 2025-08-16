@@ -28,7 +28,7 @@ Part 2 - UVLe
 --------------
 
 1. Go to our `**UVLe** page <https://uvle.upd.edu.ph/course/view.php?id=20196>`_ and join using the enrollment key given in the syllabus
-2. **Post a reply** in the Exercise 1 channel with your **full name, GitHub username, degree program**.
+2. **Post a reply** in the Exercise 1 forum with your **full name, GitHub username, degree program**.
 
 For example,
 ``JD Dianala, jdaled, teacher since 2011``
