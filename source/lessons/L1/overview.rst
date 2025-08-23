@@ -28,8 +28,7 @@ Lesson videos
  
     .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/I24wqWqvEVI?si=xnAqosGDfG-orKbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>J.D. Dianala, University of the Philippines. </p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/I0iXc_OOags?si=WsL0FiYjAyOQwhtu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 .. admonition:: Lesson 1.2 - Course environment and a taste of Python
  
