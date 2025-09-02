@@ -7,7 +7,7 @@ Exercise 3
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 3 by 21 September 2024** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/n-u3EtHN>`__.
+    **You can start working on your copy of Exercise 3 by 6 September 2025** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/n-u3EtHN>`__.
 
 You can also take a look at the template repository for `Exercise 3 on GitHub <https://github.com/NIGS-GeoPython2025/nigs-geopython2025-geol297gda-exercise-3-exercise-3/tree/main>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
