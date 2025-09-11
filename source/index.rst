@@ -159,6 +159,15 @@ New materials are updated on this course page each Saturday.
     notebooks/L4/gcp-4-writing-scripts.ipynb
     lessons/L4/exercise-4
 
+.. toctree::
+    :maxdepth: 2
+    :caption: Lesson 5
+
+    lessons/L5/overview
+    lessons/L5/pandas-overview.rst
+    notebooks/L5/exploring-data-using-pandas_eq.ipynb
+    notebooks/L5/processing-data-with-pandas_eq.ipynb
+    lessons/L5/exercise-5
 
 .. toctree::
     :maxdepth: 2
