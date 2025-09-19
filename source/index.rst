@@ -178,6 +178,7 @@ New materials are updated on this course page each Saturday.
     notebooks/L6/errors.ipynb
     notebooks/L6/gcp-5-assertions.ipynb
     notebooks/L6/debugging_short.ipynb
+    lessons/L6/exercise-6
 
 .. toctree::
     :maxdepth: 2
