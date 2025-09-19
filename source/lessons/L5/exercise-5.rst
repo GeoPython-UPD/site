@@ -3,7 +3,7 @@ Exercise 5
 
 .. note::
 
-    Please complete this exercise by **the start of the next lesson (01 March 2025, 1 PM)**.
+    Please complete this exercise by **the start of the next lesson (20 September 2025, 1 PM)**.
 
 .. admonition:: Start your assignment
 
