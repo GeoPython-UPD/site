@@ -6,12 +6,11 @@ General grading breakdown
 
 Your grade will be determined as follows:
 
-- 50% Exam
-- 35% Exercises
+- 60% Exam
+- 40% Exercises
 - 10% Case study
-- 05% Peer rating
 
-.. figure:: img/297grades.png
+.. figure:: img/grades.png
 
 
 .. admonition:: Weekly deadlines
