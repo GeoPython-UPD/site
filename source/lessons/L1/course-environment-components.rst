@@ -117,7 +117,7 @@ During the lectures we will ask you questions by using an easy-to-use polling-sy
 Discord
 -----
 
-During the course we will use actively our `Discord server <https://discord.gg/zH9TNa54>`_ for discussion and questions about the lessons and exercises.
+During the course we will use actively our `Discord server <https://discord.gg/ueB2zSrK>`_ for discussion and questions about the lessons and exercises.
 ..
 
 
