@@ -71,7 +71,7 @@ Part 3 - Cooking up some Python
 Summary (what to submit)
 ------------------------
 
-1. Post a reply in the Exercise 1 post in UVLe with your name, GitHub username and course.
+1. Post in the Exercise 1 Discord channel your name, GitHub username, and course.
 2. Accept Exercise-1 in Github classroom and upload the jupyter notebook (file name should be ``Exercise-1.ipynb``) containing your solutions for Part 3.
 
 .. admonition:: Private repositories
