@@ -6,7 +6,7 @@ Exercise 1
     Please complete this exercise **by the start of the next lesson**.
 
 The exercise for this week has three parts. First, you will **create an account on GitHub.com**. Next, you will
-**let us know your GitHub username via UVLe**. Finally, you will **cook up some Python** using the skills you learned during the first lesson!
+**let us know your GitHub username via Discord**. Finally, you will **cook up some Python** using the skills you learned during the first lesson!
 
 Part 1 - Sign up for GitHub
 ---------------------------
@@ -24,11 +24,12 @@ Part 1 - Sign up for GitHub
 3. Enter a username, email address, and password. Click Create an account.
 4. When prompted to select a plan, choose the free option.
 
-Part 2 - UVLe
+Part 2 - UVLe and Discord
 --------------
 
-1. Go to our `**UVLe** page <https://uvle.upd.edu.ph/course/view.php?id=20196>`_ and join using the enrollment key given in the syllabus
-2. **Post a reply** in the Exercise 1 forum with your **full name, GitHub username, degree program**.
+1. Go to our `**UVLe** page <https://uvle.upd.edu.ph/course/view.php?id=12198>`_ and join using the enrollment key given in the syllabus
+2. Join our Discord page through the link in UVLe.
+3. In Discord, **post a reply** in the Exercise 1 channel with your **full name, GitHub username, degree program**.
 
 For example,
 ``JD Dianala, jdaled, teacher since 2011``
@@ -49,7 +50,7 @@ Part 3 - Cooking up some Python
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/IYJyEK8L>`__.
+    **You can start working on your copy of Exercise 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/qUCuVQ8Y>`__.
 
 
 1. Start the coding exercise by accepting the GitHub Classroom assignment (click on the link above).
@@ -64,7 +65,7 @@ Part 3 - Cooking up some Python
 
     Each week, you will create a personal copy of the exercise repository on GitHub.com by clicking on the GitHub classroom link.
 
-    You can also take a look at the template repository on GitHub: https://github.com/NIGS-GeoPython2025/nigs-geopython2025-geol297gda-exercise-1-exercise-1 .
+    You can also take a look at the template repository on GitHub: https://classroom.github.com/a/qUCuVQ8Y .
     Note that you are only able to make changes in your personal repository generated via GitHub Classroom.
 
 Summary (what to submit)
