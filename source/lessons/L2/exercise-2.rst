@@ -3,7 +3,7 @@ Exercise 2
 
 .. note::
 
-    Please complete this exercise by **the start of the next lesson**.
+    Please complete this exercise by **17 February 2026**.
 
 .. admonition:: Start your assignment
 
