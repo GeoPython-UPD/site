@@ -28,7 +28,7 @@ Lesson videos
         <p>J.D. Dianala, University of the Philippines. </p>
 
 
-.. admonition:: Lesson 2.2 - Version contro and Commenting
+.. admonition:: Lesson 2.2 - Version control and Commenting
 
     .. raw:: html
 
