@@ -9,12 +9,12 @@ Exercise 3
 
     **You can start working on your copy of Exercise 3 by 3 March 2026** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/S21c0JSr>`__.
 
-You can also take a look at the template repository for `Exercise 3 on GitHub <https://github.com/NIGS-GeoPython2025/nigs-geopython2025-geol297gda-exercise-3-exercise-3/tree/main>`__ (does not require logging in).
+You can also take a look at the template repository for `Exercise 3 on GitHub <https://github.com/NIGS-GeoPython2026/nigs-geopython2026-geol197-gdam-exercise-3-exercise-3>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
 .. admonition:: Pair programming
 
-    Students attending the course in Helsinki, **note that we continue working in pairs**.
+    Students attending the course in UPD, **note that we continue working in pairs**.
     We will only grade the repository of the member of your pair that is responsible for this week's exercise.
     See more information in week 2: `Why are we working in pairs? <https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/why-pairs.html>`_
 
