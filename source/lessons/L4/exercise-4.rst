@@ -7,9 +7,9 @@ Exercise 4
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Exercise 4 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/yn64_Gmn>`__.
+    **You can start working on your copy of Exercise 4 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/nAlFc6rI>`__.
 
-You can also take a look at the template repository for `Exercise 4 on GitHub <https://github.com/NIGS-GeoPython-2024/exercise-4>`__ (does not require logging in).
+You can also take a look at the template repository for `Exercise 4 on GitHub <https://github.com/NIGS-GeoPython2026/nigs-geopython2026-geol197-gdam-exercise-4-exercise-4>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
 
 .. admonition:: Pair programming
