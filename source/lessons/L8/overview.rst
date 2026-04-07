@@ -21,7 +21,7 @@ After completing this week's lesson you should be able to:
 - Create arrays of values using NumPy
 - Understand some basic statistical terms and how they are defined
 - Write your own functions for basic (geo)statistical analysis
-.. 
+ 
 Lesson videos
 -------------
   
