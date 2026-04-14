@@ -7,9 +7,9 @@ Exercise 9
 
 .. admonition:: Start your assignment
 
-    You can start working on your copy of Exercise 9 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/fHixmylh>`__.
+    You can start working on your copy of Exercise 9 by `accepting the GitHub Classroom assignment <https://classroom.github.com/a/Iq76IJTy>`__.
 
-    **Exercise 9 is due by the start of lecture on 25 October 2025**.
+    **Exercise 9 is due by the start of lecture on 21 April 2026**.
 
 You can also take a look at the open course copy of `Exercise 9 in the course GitHub repository <https://github.com/NIGS-GeoPython-2024/nigs-geopython-2025-197gdam-exercise-9-exercise-9>`__ (does not require logging in).
 Note that you should not try to make changes to this copy of the exercise, but rather only to the copy available via GitHub Classroom.
